@@ -1,10 +1,10 @@
-title: 'Jekyll Starter Kit'
-tagline: 'A simple framework for starting your own Jekyll project'
+title: 'metraTec'
+tagline: 'Making Things Communicate'
 
 author:
-  name: 'Paul Le'
+  name: 'Klaas Dannen'
 
-google-ID: 'UA-112060364-4'
+google-ID: 'UA-XXXXX-4'
 
 menu:
 # Uncomment to activate the menu looping function in the header.html file under _includes
