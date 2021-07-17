@@ -1,0 +1,12 @@
+---
+layout: default
+title: Home
+---
+
+<ul>
+    {% graphql endpoint: "sanity", query: "postdata" %}
+      {% for post in data["allPost"] %}
+        <li>{{post["title"]}}</li>
+      {% endfor %}
+    {% endgraphql %}
+    </ul>

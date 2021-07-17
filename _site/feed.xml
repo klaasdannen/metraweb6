@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-07-17T02:46:47+02:00</updated><id>/feed.xml</id><title type="html">Jekyll Starter Kit</title><subtitle>A simple framework for starting your own Jekyll project</subtitle><author><name>Paul Le</name></author><entry><title type="html">Getting Started</title><link href="/getting-started.html" rel="alternate" type="text/html" title="Getting Started" /><published>2017-01-01T00:00:00+01:00</published><updated>2017-01-01T00:00:00+01:00</updated><id>/getting-started</id><content type="html" xml:base="/getting-started.html">&lt;h1 id=&quot;jekyll-starter-kit&quot;&gt;Jekyll Starter Kit&lt;/h1&gt;
+
+&lt;p&gt;The Jekyll Starter Kit is a simple framework for starting your own Jekyll project. It was created out of a need to have a simple and quick framework to build my Jekyll sites from. I noticed that there were a number of things that were common among all of my Jekyll sites, from certain best practices for web development, to ways that I liked to do things, to certain styles that I always used.&lt;/p&gt;
+
+&lt;p&gt;Instead of always starting from a blank slate and having to look through my past work to find what I needed, or having to always strip down the default the Jekyll theme before I even start adding my own code, I decided to take all of the lessons and best practices that I learned from building my first few Jekyll sites, and distill them into a simple framework for starting my next Jekyll project. Hopefully, this may interest some of you who are looking to build your own Jekyll sites, and would like a framework to start from.&lt;/p&gt;
+
+&lt;h2 id=&quot;notable-features&quot;&gt;Notable features&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Compatible with &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github Pages&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Support for Jekyll’s built-in Sass/SCSS preprocessor and data files for making customizing easier.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Optimized for search engines.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#introduction&quot;&gt;Introduction&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#what-is-jekyll&quot;&gt;What is Jekyll&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#never-used-jekyll-before&quot;&gt;Never Used Jeykll Before?&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#installation&quot;&gt;Installation&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#github-pages-installation&quot;&gt;GitHub Pages Installation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#local-installation&quot;&gt;Local Installation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#directory-structure&quot;&gt;Directory Structure&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#starting-from-scratch&quot;&gt;Starting From Scratch&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#configuration&quot;&gt;Configuration&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#sample-posts&quot;&gt;Sample Posts&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#site-variables&quot;&gt;Site Variables&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#adding-menu-pages&quot;&gt;Adding Menu Pages&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#posts&quot;&gt;Posts&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#layouts&quot;&gt;Layouts&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#yaml-front-block-matter&quot;&gt;YAML Front Block Matter&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#features&quot;&gt;Features&lt;/a&gt;
+    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#design-considerations&quot;&gt;Design Considerations&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#disqus&quot;&gt;Disqus&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#google-analytics&quot;&gt;Google Analytics&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#rss-feeds&quot;&gt;RSS Feeds&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#social-media-icons&quot;&gt;Social Media Icons&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#mathjax&quot;&gt;MathJax&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#syntax-highlighting&quot;&gt;Syntax Highlighting&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#markdown&quot;&gt;Markdown&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#everything-else&quot;&gt;Everything Else&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#Contributing&quot;&gt;Contributing&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#questions&quot;&gt;Questions?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#credits&quot;&gt;Credits&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#license&quot;&gt;License&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;The Jekyll Starter Kit comes ready to use out of the box - simply fork or clone this repository, and you can start developing your Jekyll site right away. Navigate to the root folder using the command line, and type in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;. If you would like to start with a blank slate, then delete the sample code in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;all.sass&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;p&gt;If you are unfamiliar with &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;, you can check out &lt;a href=&quot;https://help.github.com/categories/github-pages-basics/&quot;&gt;their documentation&lt;/a&gt; for more information. &lt;a href=&quot;http://jmcglone.com/guides/github-pages/&quot;&gt;Jonathan McGlone’s guide&lt;/a&gt; on creating and hosting a personal site on GitHub is also a good resource.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-is-jekyll&quot;&gt;What is Jekyll?&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Basically, Jekyll takes your page content along with template files and produces a complete website. For more information, visit the &lt;a href=&quot;https://jekyllrb.com/docs/home/&quot;&gt;official Jekyll site&lt;/a&gt; for their documentation.&lt;/p&gt;
+
+&lt;h3 id=&quot;never-used-jekyll-before&quot;&gt;Never Used Jekyll Before?&lt;/h3&gt;
+
+&lt;p&gt;The beauty of hosting your website on GitHub is that you don’t have to actually have Jekyll installed on your computer. Everything can be done through the GitHub code editor, with minimal knowledge of how to use Jekyll or the command line. All you have to do is add your posts to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory and edit the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file to change the site settings. With some rudimentary knowledge of HTML and CSS, you can even modify the site to your liking. This can all be done through the GitHub code editor, which acts like a content management system (CMS).&lt;/p&gt;
+
+&lt;h2 id=&quot;installation&quot;&gt;Installation&lt;/h2&gt;
+
+&lt;h3 id=&quot;github-pages-installation&quot;&gt;GitHub Pages Installation&lt;/h3&gt;
+
+&lt;p&gt;To start using Jekyll right away using GitHub Pages, &lt;a href=&quot;https://github.com/LeNPaul/jekyll-starter-kit/fork&quot;&gt;fork the jekyll-starter-kit repository on GitHub&lt;/a&gt;. From there, you can rename your repository to ‘USERNAME.github.io’, where ‘USERNAME’ is your GitHub username, and edit the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data&lt;/code&gt; folder to your liking. Ensure that you have a branch named &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gh-pages&lt;/code&gt;. Your website should be ready immediately at ‘http://USERNAME.github.io’. Note: if you are hosting several sites under the same GitHub username, then you will have to use &lt;a href=&quot;https://help.github.com/articles/user-organization-and-project-pages/&quot;&gt;Project Pages instead of User Pages&lt;/a&gt; - just change the repository name to something other than ‘http://USERNAME.github.io’.&lt;/p&gt;
+
+&lt;p&gt;Head over to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory to view all the posts that are currently on the website, and to see examples of what post files generally look like. You can simply just duplicate the template post and start adding your own content.&lt;/p&gt;
+
+&lt;h3 id=&quot;local-installation&quot;&gt;Local Installation&lt;/h3&gt;
+
+&lt;p&gt;For a full local installation of jekyll-starter-kit, &lt;a href=&quot;https://github.com/LeNPaul/jekyll-starter-kit/archive/gh-pages.zip&quot;&gt;download your own copy of jekyll-starter-kit&lt;/a&gt; and unzip it into it’s own directory. From there, open up your favorite command line tool, enter &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle install&lt;/code&gt;, and then enter &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;. Your site should be up and running locally at &lt;a href=&quot;http://localhost:4000&quot;&gt;http://localhost:4000&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;directory-structure&quot;&gt;Directory Structure&lt;/h3&gt;
+
+&lt;p&gt;If you are familiar with Jekyll, then the jekyll-starter-kit directory structure shouldn’t be too difficult to navigate. The following some highlights of the differences you might notice between the default directory structure. More information on what these folders and files do can be found in the &lt;a href=&quot;https://jekyllrb.com/docs/structure/&quot;&gt;Jekyll documentation site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;jekyll-starter-kit/
+├── _data                      &lt;span class=&quot;c&quot;&gt;# Data files&lt;/span&gt;
+|  └── authors.yml             &lt;span class=&quot;c&quot;&gt;# For managing multiple authors&lt;/span&gt;
+|  └── settings.yml            &lt;span class=&quot;c&quot;&gt;# Theme settings and custom text&lt;/span&gt;
+├── _includes                  &lt;span class=&quot;c&quot;&gt;# Theme includes&lt;/span&gt;
+├── _layouts                   &lt;span class=&quot;c&quot;&gt;# Theme layouts (see below for details)&lt;/span&gt;
+├── _posts                     &lt;span class=&quot;c&quot;&gt;# Where all your posts will go&lt;/span&gt;
+├── assets                     &lt;span class=&quot;c&quot;&gt;# Style sheets and images are found here&lt;/span&gt;
+|  ├── css                     &lt;span class=&quot;c&quot;&gt;# Style sheets go here&lt;/span&gt;
+|  |  └── main.css             &lt;span class=&quot;c&quot;&gt;# Main CSS file&lt;/span&gt;
+|  |  └── syntax.css           &lt;span class=&quot;c&quot;&gt;# Style sheet for code syntax highlighting&lt;/span&gt;
+|  └── img                     &lt;span class=&quot;c&quot;&gt;# Images go here&lt;/span&gt;
+├── menu                       &lt;span class=&quot;c&quot;&gt;# Menu pages&lt;/span&gt;
+├── _config.yml                &lt;span class=&quot;c&quot;&gt;# Site build settings&lt;/span&gt;
+└── index.md                   &lt;span class=&quot;c&quot;&gt;# Home page&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;assets&quot;&gt;Assets&lt;/h3&gt;
+
+&lt;p&gt;This folder contains all of the images, CSS, and JavaScript for the site, and within these folders, there is some structure that will help in organizing all of your assets.&lt;/p&gt;
+
+&lt;h4 id=&quot;css&quot;&gt;CSS&lt;/h4&gt;
+
+&lt;p&gt;This folder is further subdivided into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;1-tools&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;2-base&lt;/code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;3-sections&lt;/code&gt;. The ‘tools’ folder can be used to store CSS libraries or generic CSS files that you may have that you use for your other projects. The ‘base’ folder is used to store any CSS relating to styling HTML tags, for example. The ‘sections’ folder is the one that you will probably use the most, and will be where you store your main CSS styling. Generally, I try to have one SASS file corresponding to an HTML file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;includes&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layouts&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;h3 id=&quot;managing-site-variables&quot;&gt;Managing Site variables&lt;/h3&gt;
+
+&lt;p&gt;Whenever possible, I try to avoid hardcoding certain values into the site code, such as author names, menu links, and so on. Fortunately, Jekyll offers tools that allow you to manage your site variables easily, allowing you to use variables in place of hardcoded values. I typically store all site variables in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data&lt;/code&gt; folder, under the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; files. It’s not too difficult to add more files to better organize your site variables, and then just add them into your site using &lt;a href=&quot;&quot;&gt;Liquid tags and variables&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;css-styling&quot;&gt;CSS Styling&lt;/h3&gt;
+
+&lt;p&gt;Following the paradigm above, all the SASS variables can be found in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;all.sass&lt;/code&gt; file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/css&lt;/code&gt; folder directory. I try to turn commonly used styles into variables that I can call in the SASS code, instead of always having to hardcode everything.&lt;/p&gt;
+
+&lt;h3 id=&quot;starting-from-scratch&quot;&gt;Starting From Scratch&lt;/h3&gt;
+
+&lt;p&gt;To completely start from scratch, simply delete all the files in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/img&lt;/code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;menu&lt;/code&gt; folder, and add your own content. You may also replace the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;README.md&lt;/code&gt; file with your own README. Everything in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data&lt;/code&gt; folder and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file can be edited to suit your needs. You may also change the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;favicon.ico&lt;/code&gt; file to your own favicon.&lt;/p&gt;
+
+&lt;h2 id=&quot;configuration&quot;&gt;Configuration&lt;/h2&gt;
+
+&lt;h3 id=&quot;sample-posts&quot;&gt;Sample Posts&lt;/h3&gt;
+
+&lt;p&gt;Visit the &lt;a href=&quot;https://lenpaul.github.io/jekyll-starter-kit/&quot;&gt;the demo site&lt;/a&gt; to find sample posts that show what different types of text formatting look like, as well as best practices for setting up your own site.&lt;/p&gt;
+
+&lt;h3 id=&quot;site-variables&quot;&gt;Site Variables&lt;/h3&gt;
+
+&lt;p&gt;To change site build settings, edit the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file found in the root of your repository, which you can tweak however you like. More information on configuration settings and plugins can be found on &lt;a href=&quot;https://jekyllrb.com/docs/configuration/&quot;&gt;the Jekyll documentation site&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you are hosting your site on GitHub Pages, then committing a change to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file will force a rebuild of your site with Jekyll. Any changes made should be viewable soon after. If you are hosting your site locally, then you must run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt; again for the changes to take place.&lt;/p&gt;
+
+&lt;p&gt;In the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;authors.yml&lt;/code&gt; files found in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data&lt;/code&gt; folder, you will be able to customize your site settings, such as the title of your site, what shows up in your menu, and social media information. To make author organization easier, especially if you have multiple authors, all author information is stored in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;authors.yml&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;h3 id=&quot;adding-menu-pages&quot;&gt;Adding Menu Pages&lt;/h3&gt;
+
+&lt;p&gt;The menu pages are found in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;menu&lt;/code&gt; folder in the root directory, and can be added to your menu in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;h3 id=&quot;posts&quot;&gt;Posts&lt;/h3&gt;
+
+&lt;p&gt;You will find example posts in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit any post and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.md&lt;/code&gt; and includes the necessary front matter. Take a look at any sample post to get an idea about how it works. If you already have a website built with Jekyll, simply copy over your posts to migrate to jekyll-starter-kit. Note: Images were designed to be 1024x600 pixels, with teaser images being 1024x380 pixels.&lt;/p&gt;
+
+&lt;h3 id=&quot;layouts&quot;&gt;Layouts&lt;/h3&gt;
+
+&lt;p&gt;There are two main layout options that are included with jekyll-starter-kit: post and page. Layouts are specified through the &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;YAML front block matter&lt;/a&gt;. Any file that contains a YAML front block matter will be processed by Jekyll. For example:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+layout: post
+title: &quot;Example Post&quot;
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Examples of what posts looks like can be found in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory, which includes this post you are reading right now. Posts are the basic blog post layout, which includes a header image, post content, author name, date published, social media sharing links, and related posts.&lt;/p&gt;
+
+&lt;p&gt;Pages are essentially the post layout without any of the extra features of the posts layout. An example of what pages look like can be found at the &lt;a href=&quot;https://lenpaul.github.io/jekyll-starter-kit/menu/about.html&quot;&gt;About&lt;/a&gt; and &lt;a href=&quot;https://lenpaul.github.io/jekyll-starter-kit/menu/contacts.html&quot;&gt;Contacts&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In addition to the two main layout options above, there are also custom layouts that have been created for the &lt;a href=&quot;https://lenpaul.github.io/jekyll-starter-kit/&quot;&gt;home page&lt;/a&gt; and the &lt;a href=&quot;https://lenpaul.github.io/jekyll-starter-kit/writing.html&quot;&gt;archives page&lt;/a&gt;. These are simply just page layouts with some &lt;a href=&quot;https://shopify.github.io/liquid/&quot;&gt;Liquid template code&lt;/a&gt;. Check out the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;index.html&lt;/code&gt; file in the root directory for what the code looks like.&lt;/p&gt;
+
+&lt;h3 id=&quot;yaml-front-block-matter&quot;&gt;YAML Front Block Matter&lt;/h3&gt;
+
+&lt;p&gt;The recommended YAML front block is:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;---
+layout:
+title:
+categories:
+tags: []
+image:
+---
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layout&lt;/code&gt; specifies which layout to use, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt; is the page or post title, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;categories&lt;/code&gt; can be used to better organize your posts, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;tags&lt;/code&gt; are used to show related posts, as well as indicate what topics are related in a given post, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;image&lt;/code&gt; specifies which images to use. There are two main types of images that can be used in a given post, the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;feature&lt;/code&gt; and the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;teaser&lt;/code&gt;, which are typically the same image, except the teaser image is cropped for the home page. You can give credit to images under &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;credit&lt;/code&gt;, and provide a link if possible under &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;creditlink&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+
+&lt;h3 id=&quot;design-considerations&quot;&gt;Design Considerations&lt;/h3&gt;
+
+&lt;p&gt;jekyll-starter-kit was designed to be a minimalist theme in order for the focus to remain on your content. For example, links are signified mainly through an underline text-decoration, in order to maximize the perceived affordance of clickability (I originally just wanted to make the links a darker shade of grey).&lt;/p&gt;
+
+&lt;h3 id=&quot;disqus&quot;&gt;Disqus&lt;/h3&gt;
+
+&lt;p&gt;jekyll-starter-kit supports comments at the end of posts through &lt;a href=&quot;https://disqus.com/&quot;&gt;Disqus&lt;/a&gt;. In order to activate Disqus commenting, set &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;disqus.comments&lt;/code&gt; to true in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; file under &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data&lt;/code&gt;. If you do not have a Disqus account already, you will have to set one up, and create a profile for your website. You will be given a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;disqus_shortname&lt;/code&gt; that will be used to generate the appropriate comments sections for your site. More information on &lt;a href=&quot;http://www.perfectlyrandom.org/2014/06/29/adding-disqus-to-your-jekyll-powered-github-pages/&quot;&gt;how to set up Disqus&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;google-analytics&quot;&gt;Google Analytics&lt;/h3&gt;
+
+&lt;p&gt;It is possible to track your site statistics through &lt;a href=&quot;https://www.google.com/analytics/&quot;&gt;Google Analytics&lt;/a&gt;. Similar to Disqus, you will have to create an account for Google Analytics, and enter the correct Google ID for your site under &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;google-ID&lt;/code&gt; in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; file. More information on &lt;a href=&quot;https://michaelsoolee.com/google-analytics-jekyll/&quot;&gt;how to set up Google Analytics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;rss-feeds&quot;&gt;RSS Feeds&lt;/h3&gt;
+
+&lt;p&gt;Atom is supported through &lt;a href=&quot;https://github.com/jekyll/jekyll-feed&quot;&gt;Jekyll-Feed&lt;/a&gt; and RSS 2.0 is supported through &lt;a href=&quot;http://www.rssboard.org/rss-autodiscovery&quot;&gt;RSS autodiscovery&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;social-media-icons&quot;&gt;Social Media Icons&lt;/h3&gt;
+
+&lt;p&gt;All social media icons are courtesy of &lt;a href=&quot;http://fontawesome.io/&quot;&gt;Font Awesome&lt;/a&gt;. You can change which icons appear, as well as the account that they link to, in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;settings.yml&lt;/code&gt; file in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_data&lt;/code&gt; folder.&lt;/p&gt;
+
+&lt;h3 id=&quot;syntax-highlighting&quot;&gt;Syntax Highlighting&lt;/h3&gt;
+
+&lt;p&gt;The Jekyll Starter Kit provides syntax highlighting through &lt;a href=&quot;https://help.github.com/articles/creating-and-highlighting-code-blocks/&quot;&gt;fenced code blocks&lt;/a&gt;. Syntax highlighting allows you to display source code in different colors and fonts depending on what programming language is being displayed. You can find the full list of supported programming languages &lt;a href=&quot;https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers&quot;&gt;here&lt;/a&gt;. Another option is to embed your code through &lt;a href=&quot;https://en.support.wordpress.com/gist/&quot;&gt;Gist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;markdown&quot;&gt;Markdown&lt;/h3&gt;
+
+&lt;p&gt;As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown syntax&lt;/a&gt;. Examples of these text formatting features can be seen below. You can find this post in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory as well as the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;README.md&lt;/code&gt; file.&lt;/p&gt;
+
+&lt;h2 id=&quot;everything-else&quot;&gt;Everything Else&lt;/h2&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;contributing&quot;&gt;Contributing&lt;/h2&gt;
+
+&lt;p&gt;If you would like to make a feature request, or report a bug or typo in the documentation, then please &lt;a href=&quot;https://github.com/LeNPaul/jekyll-starter-kit/issues/new&quot;&gt;submit a GitHub issue&lt;/a&gt;. If you would like to make a contribution, then feel free to &lt;a href=&quot;https://help.github.com/articles/about-pull-requests/&quot;&gt;submit a pull request&lt;/a&gt; - as a bonus, I will credit all contributors below! If this is your first pull request, it may be helpful to read up on the &lt;a href=&quot;https://guides.github.com/introduction/flow/&quot;&gt;GitHub Flow&lt;/a&gt; first.&lt;/p&gt;
+
+&lt;p&gt;The Jekyll Starter Kit has been designed as a base for users to customize and fit to their own unique needs. Please keep this in mind when requesting features and/or submitting pull requests. Some examples of changes that I would love to see are things that would make the site easier to use, or better ways of doing things. Please avoid changes that do not benefit the majority of users.&lt;/p&gt;
+
+&lt;h2 id=&quot;questions&quot;&gt;Questions?&lt;/h2&gt;
+
+&lt;p&gt;This theme is completely free and open source software. You may use it however you want, as it is distributed under the &lt;a href=&quot;http://choosealicense.com/licenses/mit/&quot;&gt;MIT License&lt;/a&gt;. If you are having any problems, any questions or suggestions, feel free to &lt;a href=&quot;https://twitter.com/intent/tweet?text=My%question%about%jekyll-starter-kit%is:%&amp;amp;via=paululele&quot;&gt;tweet at me&lt;/a&gt;, or &lt;a href=&quot;https://github.com/lenpaul/jekyll-starter-kit/issues/new&quot;&gt;file a GitHub issue&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;h3 id=&quot;creator&quot;&gt;Creator&lt;/h3&gt;
+
+&lt;h4 id=&quot;paul-le&quot;&gt;Paul Le&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://lenpaul.com&quot;&gt;www.lenpaul.com&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://twitter.com/paululele&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/LeNPaul&quot;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;contributors&quot;&gt;Contributors&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Be the first to contribute!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;icons--demo-images&quot;&gt;Icons + Demo Images&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://deathtothestockphoto.com/&quot;&gt;Death to Stock&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://fontawesome.io/&quot;&gt;Font Awesome&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;other&quot;&gt;Other&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.freecodecamp.org&quot;&gt;Free Code Camp&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.khanacademy.org/&quot;&gt;Khan Academy&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;license&quot;&gt;License&lt;/h2&gt;
+
+&lt;p&gt;Open sourced under the &lt;a href=&quot;https://github.com/LeNPaul/jekyll-starter-kit/blob/gh-pages/LICENSE.md&quot;&gt;MIT license&lt;/a&gt;.&lt;/p&gt;</content><author><name>Paul Le</name></author><summary type="html">Jekyll Starter Kit</summary></entry><entry><title type="html">Text Formatting Examples</title><link href="/text-formatting-examples.html" rel="alternate" type="text/html" title="Text Formatting Examples" /><published>2014-01-01T00:00:00+01:00</published><updated>2014-01-01T00:00:00+01:00</updated><id>/text-formatting-examples</id><content type="html" xml:base="/text-formatting-examples.html">&lt;h1 id=&quot;markdown-support&quot;&gt;Markdown Support&lt;/h1&gt;
+
+&lt;p&gt;As always, Jekyll offers support for GitHub Flavored Markdown, which allows you to format your posts using the &lt;a href=&quot;https://guides.github.com/features/mastering-markdown/&quot;&gt;Markdown syntax&lt;/a&gt;. Examples of these text formatting features can be seen below. You can find this post in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory.&lt;/p&gt;
+
+&lt;h2 id=&quot;basic-formatting&quot;&gt;Basic Formatting&lt;/h2&gt;
+
+&lt;p&gt;With Markdown, it is possible to emphasize words by making them &lt;em&gt;italicized&lt;/em&gt;, using &lt;em&gt;astericks&lt;/em&gt; or &lt;em&gt;underscores&lt;/em&gt;, or making them &lt;strong&gt;bold&lt;/strong&gt;, using &lt;strong&gt;double astericks&lt;/strong&gt; or &lt;strong&gt;double underscores&lt;/strong&gt;. Of course, you can combine those two formats, with both &lt;em&gt;&lt;strong&gt;bold and italicized&lt;/strong&gt;&lt;/em&gt; text, using any combination of the above syntax. You can also add a strikethrough to text using a &lt;del&gt;double tilde&lt;/del&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;paragraphs&quot;&gt;Paragraphs&lt;/h2&gt;
+
+&lt;p&gt;This is what a paragraph looks like. For the purpose of demonstration, the rest of this paragraph and the next paragraph after will mean absolutely nothing. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+
+&lt;p&gt;Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.&lt;/p&gt;
+
+&lt;h2 id=&quot;headings&quot;&gt;Headings&lt;/h2&gt;
+
+&lt;p&gt;Sometimes it is useful to have different levels of headings to structure your documents. Start lines with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;#&lt;/code&gt; to create headings. Multiple &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;##&lt;/code&gt; in a row denote smaller heading size. The following demonstrate the full range of heading sizes:&lt;/p&gt;
+
+&lt;h1 id=&quot;heading-one-h1&quot;&gt;Heading One (h1)&lt;/h1&gt;
+
+&lt;h2 id=&quot;heading-two-h2&quot;&gt;Heading Two (h2)&lt;/h2&gt;
+
+&lt;h3 id=&quot;heading-three-h3&quot;&gt;Heading Three (h3)&lt;/h3&gt;
+
+&lt;h4 id=&quot;heading-four-h4&quot;&gt;Heading Four (h4)&lt;/h4&gt;
+
+&lt;h5 id=&quot;heading-five-h5&quot;&gt;Heading Five (h5)&lt;/h5&gt;
+
+&lt;h6 id=&quot;heading-six-h6&quot;&gt;Heading Six (h6)&lt;/h6&gt;
+
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;/h2&gt;
+
+&lt;p&gt;You can create an inline link by wrapping link text in square brackets &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[ ]&lt;/code&gt;, and then wrapping the URL in parentheses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;( )&lt;/code&gt;. For example, it is very easy to &lt;a href=&quot;http://google.com&quot;&gt;link to Google!&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;/h2&gt;
+
+&lt;p&gt;Blockquotes are useful for denoting quotes, or highlighting a large block of text. Single line blockquote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;This quote will change your life.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Multi line blockquote with a cite reference:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;People think focus means saying yes to the thing you’ve got to focus on. But that’s not what it means at all. It means saying no to the hundred other good ideas that there are. You have to pick carefully. I’m actually as proud of the things we haven’t done as the things I have done. Innovation is saying no to 1,000 things.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;code-and-syntax-highlighting&quot;&gt;Code and Syntax Highlighting&lt;/h2&gt;
+
+&lt;p&gt;Code blocks are part of the Markdown spec, but syntax highlighting isn’t. However, many renderers - like GitHub or most Jekyll themes - support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. You can find the full list of supported programming languages &lt;a href=&quot;https://github.com/jneen/rouge/wiki/List-of-supported-languages-and-lexers&quot;&gt;here&lt;/a&gt;. Also, it is possible to do &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;inline code blocks&lt;/code&gt;, by wrapping the text in ` ` ` quotations.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;No language indicated, so no syntax highlighting.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Another option is to embed your code through &lt;a href=&quot;https://en.support.wordpress.com/gist/&quot;&gt;Gist&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;unordered-and-numbered-lists&quot;&gt;Unordered and Numbered Lists&lt;/h2&gt;
+
+&lt;p&gt;You can make an unordered and nested list by preceding one or more lines of text with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;*&lt;/code&gt;, or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;+&lt;/code&gt;, and indenting sublists. The following lists show the full range of possible list formats.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;List item one
+    &lt;ul&gt;
+      &lt;li&gt;List item one
+        &lt;ul&gt;
+          &lt;li&gt;List item one&lt;/li&gt;
+          &lt;li&gt;List item two&lt;/li&gt;
+          &lt;li&gt;List item three&lt;/li&gt;
+          &lt;li&gt;List item four&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;List item two&lt;/li&gt;
+      &lt;li&gt;List item three&lt;/li&gt;
+      &lt;li&gt;List item four&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List item two&lt;/li&gt;
+  &lt;li&gt;List item three&lt;/li&gt;
+  &lt;li&gt;List item four&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Numbered lists are made by using numbers instead of bullet points.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;List item one
+    &lt;ol&gt;
+      &lt;li&gt;List item one
+        &lt;ol&gt;
+          &lt;li&gt;List item one&lt;/li&gt;
+          &lt;li&gt;List item two&lt;/li&gt;
+          &lt;li&gt;List item three&lt;/li&gt;
+          &lt;li&gt;List item four&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;List item two&lt;/li&gt;
+      &lt;li&gt;List item three&lt;/li&gt;
+      &lt;li&gt;List item four&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;List item two&lt;/li&gt;
+  &lt;li&gt;List item three&lt;/li&gt;
+  &lt;li&gt;List item four&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;mathjax-example&quot;&gt;MathJax Example&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation&quot;&gt;Schrödinger equation&lt;/a&gt; is a partial differential equation that describes how the quantum state of a quantum system changes with time:&lt;/p&gt;
+
+\[i\hbar\frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \left [ \frac{-\hbar^2}{2\mu}\nabla^2 + V(\mathbf{r},t)\right ] \Psi(\mathbf{r},t)\]
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Joseph-Louis_Millennial&quot;&gt;Joseph-Louis Millennial&lt;/a&gt; was an Italian mathematician and astronomer who was responsible for the formulation of Lagrangian mechanics, which is a reformulation of Newtonian mechanics.&lt;/p&gt;
+
+\[\frac{\mathrm{d}}{\mathrm{d}t} \left ( \frac {\partial  L}{\partial \dot{q}_j} \right ) =  \frac {\partial L}{\partial q_j}\]
+
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Title 1&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Title 2&lt;/th&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Title 3&lt;/th&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt;Title 4&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;lorem ipsum dolor sit&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;embedding&quot;&gt;Embedding&lt;/h2&gt;
+
+&lt;p&gt;Plenty of social media sites offer the option of embedding certain parts of their site on your own site, such as YouTube and Twitter:&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mthtn1X4eUY&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a class=&quot;twitter-grid&quot; data-partner=&quot;tweetdeck&quot; href=&quot;https://twitter.com/paululele/timelines/755079130027352064&quot;&gt;New Collection&lt;/a&gt; &lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+
+&lt;p&gt;HTML defines a long list of available inline tags, which you can mix with Markdown if you like. A complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;useful-resources&quot;&gt;Useful Resources&lt;/h2&gt;
+
+&lt;p&gt;More information on Markdown can be found at the following links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet#code&quot;&gt;Markdown Here Cheatsheet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html&quot;&gt;Quick Markdown Example&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://daringfireball.net/projects/markdown/basics&quot;&gt;Markdown Basics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.github.com/gfm/&quot;&gt;GitHub Flavoured Markdown Spec&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/basic-writing-and-formatting-syntax/#lists&quot;&gt;Basic writing and formatting syntax&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Paul Le</name></author><summary type="html">Markdown Support</summary></entry></feed>

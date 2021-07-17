@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Getting Started"
+---
+
 # Jekyll Starter Kit
 
 The Jekyll Starter Kit is a simple framework for starting your own Jekyll project. It was created out of a need to have a simple and quick framework to build my Jekyll sites from. I noticed that there were a number of things that were common among all of my Jekyll sites, from certain best practices for web development, to ways that I liked to do things, to certain styles that I always used.
@@ -182,7 +187,7 @@ jekyll-starter-kit supports comments at the end of posts through [Disqus](https:
 
 ### Google Analytics
 
-It is possible to track your site statistics through [Google Analytics](https://www.google.com/analytics/). Similar to Disqus, you will have to create an account for Google Analytics, and enter the correct Google ID for your site under `google-ID` in the `settings.yml` file. More information on [how to set up Google Analytics](https://michaelsoolee.com/google-analytics-jekyll/). Note: If you are not using Google Analytics, please change `google-ID` to an empty string.
+It is possible to track your site statistics through [Google Analytics](https://www.google.com/analytics/). Similar to Disqus, you will have to create an account for Google Analytics, and enter the correct Google ID for your site under `google-ID` in the `settings.yml` file. More information on [how to set up Google Analytics](https://michaelsoolee.com/google-analytics-jekyll/).
 
 ### RSS Feeds
 

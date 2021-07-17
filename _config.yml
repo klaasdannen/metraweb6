@@ -1,0 +1,21 @@
+# jekyll-paginate configuration
+paginate:            5
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jeql]
+
+sass:
+  sass_dir: assets/css
+  style: :compressed
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "Jekyll Starter Kit"
+description:	       "A simple framework for starting your own Jekyll project"
+author:              "Paul Le"
+
+jeql:
+  sanity:
+    url: "https://r5wfln9z.api.sanity.io/v1/graphql/production/default"
