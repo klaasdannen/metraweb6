@@ -1,0 +1,12 @@
+---
+path: "/"
+title: "RFID Antennas"
+rank: "20"
+section: "RFID"
+group: "RFID Antennas"
+type: "product_group"
+---
+# RFID Antennas
+***
+
+Important components for a well working RFID system are antennas that are well adapted to the respective situation. We offer you a range of standard antennas, which you can access via the corresponding sub-items in the left menu. The antennas differ in the frequency range for which they are intended. If you are not sure which antenna is the right one for your application, we will be happy to advise you... of course free of charge.

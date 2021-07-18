@@ -2,8 +2,16 @@
 layout: default
 ---
 
-<section>
-  <div class="page-content">
-    {{ content }}
-  </div>
-</section>
+<main id="main">
+
+{% include breadcrumbs.html%}
+
+  <section class="inner-page">
+    <div class="container">
+      <p>
+        {{ content }}
+      </p>
+    </div>
+  </section>
+
+</main>

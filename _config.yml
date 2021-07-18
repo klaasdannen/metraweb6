@@ -16,6 +16,14 @@ title:		           "Jekyll Starter Kit"
 description:	       "A simple framework for starting your own Jekyll project"
 author:              "Paul Le"
 
-jeql:
-  sanity:
-    url: "https://r5wfln9z.api.sanity.io/v1/graphql/production/default"
+defaults:
+  -
+    scope:
+      path: "en"
+    values:
+      lang: "en"
+  -
+    scope:
+      path: "de"
+    values:
+      lang: "de"

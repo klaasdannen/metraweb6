@@ -1,0 +1,19 @@
+  <section class="breadcrumbs">
+    <div class="container">
+
+      <div class="d-flex justify-content-between align-items-center">
+        <ol>
+            {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
+    <a href="/{{page.lang}}/">Home</a>
+    {% for crumb in crumbs offset: 2 %}
+      {% if forloop.last %}
+      &nbsp;>&nbsp;{{ page.title }}
+      {% else %}
+      &nbsp;>&nbsp;<a href="{% assign crumb_limit = forloop.index | plus: 2 %}{% for crumb in crumbs limit: crumb_limit %}{{ crumb | append: '/' }}{% endfor %}">{{ crumb | replace:'-',' ' | remove:'.html' | capitalize }}</a>
+      {% endif %}
+    {% endfor %}
+        </ol>
+      </div>
+
+    </div>
+  </section>

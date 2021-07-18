@@ -1,0 +1,32 @@
+- title: Solutions
+  url: "/en/solutions/"
+  sublinks:
+    - title: Identification
+      url: /en/solutions/identification
+    - title: Localization
+      url: /en/solutions/localization
+    - title: IoT
+      url: /en/solutions/iot
+- title: Products
+  url: "/en/products/"
+  sublinks:
+    - title: RFID
+      url: /en/products/rfid
+    - title: IPS
+      url: /en/products/ips
+- title: Support
+  url: "/en/support/"
+  sublinks:
+    - title: FAQ
+      url: /en/support/faq
+    - title: Downloads
+      url: /en/support/downloads
+- title: More
+  url: "/en/more/"
+  sublinks:
+    - title: R&D Projects
+      url: /en/more/research
+    - title: Sales Partner
+      url: /en/more/salespartner
+- title: About
+  url: "/en/about/"
