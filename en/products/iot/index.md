@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_segment
 title: "TCP to UART"
 section: "IoT"
 type: "product_section"

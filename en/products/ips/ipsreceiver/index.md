@@ -1,13 +1,9 @@
 ---
-path: "/"
+layout: product_group
 title: "IPS Receiver"
 rank: "20"
-section: "IPS"
-group: "IPS Receiver"
-type: "product_group"
 ---
 # IPS Ethernet Receiver
-***
 
 The metraTec Indoor Positioning System (IPS) allows you to create a flexible localization infrastructure to track objects and persons inside buildings where cost and complexity can be adjusted to your needs. If you chose to install a stationary localization system the IPS Receivers will be the central component in your infrastructure.
 

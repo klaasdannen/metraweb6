@@ -30,3 +30,14 @@
       url: /en/more/salespartner
 - title: About
   url: "/en/about/"
+  sublinks:
+    - title: Company
+      url: /en/about/company
+    - title: Team
+      url: /en/about/team
+    - title: Jobs
+      url: /en/about/jobs
+    - title: News
+      url: /en/about/news
+    - title: Privacy
+      url: /en/about/privacy

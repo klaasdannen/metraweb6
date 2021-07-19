@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "DwarfG2 UHF SMD Module"
 rank: "80"
 section: "RFID"
@@ -10,6 +10,10 @@ bulletPoints:
   - Fast Read/Write Operation
   - Low Heat Development
   - Compact Design
+linked_files:
+ - Dbdwarfg2
+ - Metraterm
+ - Uhfprotocol
 ---
 UHF RFID at 868/915 MHz is more and more replacing the classic HF RFID technology at 13,56 MHz due to a high potential read range and cheaper RFID transponders. This trends leads to the fact that more and more developers have to work with UHF electronics, which is not an easy topic if you haven't studied communication technology. A very simple way to integrate UHF RFID into your device without risk and shortest time-to-market is to use metraTec's DwarfG2 UHF SMD module.
 

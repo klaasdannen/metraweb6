@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "T50 HF 3D-Tunnel"
 rank: "10"
 section: "RFID"

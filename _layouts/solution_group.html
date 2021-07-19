@@ -4,12 +4,42 @@ layout: page
 
 {{ content}}
 
-{% for item in site.pages %}
-        {% assign item_crumbs = item.url | remove_first: page.dir | split: '/' %}
 
-        {% if item_crumbs.size == 1 and item.name == 'index.md' %}
-        <li>
-            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-        </li>
-        {% endif %}
-    {% endfor %}
+
+
+
+<!-- Topic Cards -->
+<div id="cards_landscape_wrap-2">
+    <div class="container">
+        <div class="row">
+
+            {% for item in site.pages %}
+            {% assign item_crumbs = item.url | remove_first: page.dir | split: '/' %}
+
+            {% if item_crumbs.size == 1 and item.name == 'index.md' %}
+
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                <a href="{{ item.url | relative_url }}">
+                    <div class="card-flyer">
+                        <div class="text-box">
+                            <div class="image-box">
+                                <img src="{{ item.url | relative_url }}/{{item.featuredImage}}" alt="{{ item.title }}" />
+                            </div>
+                            <div class="text-container">
+                                <h6>{{ item.title }}</h6>
+                                <p>{{ item.content | truncate: 150 }}</p>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+            {% endif %}
+            {% endfor %}
+
+        </div>
+    </div>
+</div>
+
+
+<!-- <img src="https://cdn.pixabay.com/photo/2018/03/30/15/11/deer-3275594_960_720.jpg" alt="" /> -->

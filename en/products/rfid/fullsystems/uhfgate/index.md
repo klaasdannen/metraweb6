@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "UHF RFID-Gate"
 rank: "40"
 section: "RFID"

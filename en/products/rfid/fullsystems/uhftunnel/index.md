@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "UTx UHF RFID-Tunnel"
 rank: "30"
 section: "RFID"

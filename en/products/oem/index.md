@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_segment
 title: "OEM Design"
 section: "OEM"
 type: "product_section"

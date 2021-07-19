@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "RFID Kanban Box"
 rank: "50"
 section: "RFID"

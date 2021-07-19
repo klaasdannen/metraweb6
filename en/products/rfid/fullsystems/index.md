@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_group
 title: "Full Systems"
 rank: "70"
 section: "RFID"

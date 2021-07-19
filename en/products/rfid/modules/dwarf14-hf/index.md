@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "Dwarf14 HF SMD Module"
 rank: "20"
 section: "RFID"

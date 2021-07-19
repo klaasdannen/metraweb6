@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_group
 title: "OEM Modules"
 rank: "10"
 section: "RFID"

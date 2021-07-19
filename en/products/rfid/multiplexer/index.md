@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_group
 title: "RFID Multiplexer"
 rank: "30"
 section: "RFID"

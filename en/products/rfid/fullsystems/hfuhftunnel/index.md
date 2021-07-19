@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "HF and UHF 3D tunnel"
 rank: "20"
 section: "RFID"

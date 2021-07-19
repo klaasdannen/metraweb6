@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "DwarfG2-Mini UHF SMD Module"
 rank: "70"
 section: "RFID"

@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_segment
 title: "RFID"
 section: "RFID"
 type: "product_section"

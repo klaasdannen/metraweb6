@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "hfMux-4 HF Multiplexer"
 rank: "10"
 section: "RFID"

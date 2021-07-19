@@ -1,13 +1,9 @@
 ---
-path: "/"
+layout: product_group
 title: "IoT Engine"
 rank: "30"
-section: "IoT"
-group: "IoT Engine"
-type: "product_group"
 ---
 # IoT Engine Middleware
-***
 
 The IoT Engine middleware (IoT = Internet of Things) is a software that collects, filters and evaluates data from various sources. These can be different devices, such as RFID readers or an indoor positioning system (IPS), but also data from Barcode scanners, forklifts (current  speed) or entire machines (e.g., operating time).
 

@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "UHF Field Analyzer Kit"
 rank: "60"
 section: "RFID"

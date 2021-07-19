@@ -11,3 +11,14 @@ title: FAQ
     frequently. Maybe your question is also in this list and can be
     answered right away...
 </p>
+
+<ul>
+    {% for item in site.data.faq_en %}
+    <li>
+        {{item.question}}
+        <br />
+        {{item.answer}}
+    </li>
+    <br />
+    {% endfor %}
+</ul>

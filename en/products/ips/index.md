@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_segment
 title: "Indoor Positioning"
 section: "IPS"
 type: "product_section"
