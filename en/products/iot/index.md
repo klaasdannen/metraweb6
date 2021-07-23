@@ -1,8 +1,7 @@
 ---
 layout: product_segment
-title: "TCP to UART"
+title: "Internet of Things"
 section: "IoT"
-type: "product_section"
 ---
 # Industrial IoT
 ***

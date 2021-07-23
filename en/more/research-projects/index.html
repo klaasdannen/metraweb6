@@ -1,0 +1,85 @@
+---
+layout: page
+title: Research Projects
+---
+<h1>Overview of public research projects</h1>
+<div class="border-top mb-3"></div>
+
+<p>
+    As an innovative company metraTec is very active in developing
+    new technologies and methods to improve our existing products
+    or develop completely new approaches. While some are internal
+    projects that are kept secret some are publicly funded
+    research projects that we do with a number of partners, like
+    universities, research institures and other innovative SMEs.
+    On the following pages we present you our past and current
+    research projects.
+    <br />
+</p>
+<p>
+<div>
+    <h5><i>Current Research Projects:</i></h5>
+</div>
+
+{% assign projects = site.pages | where:"current", true %}
+{% for item in projects %}
+{% assign item_crumbs = item.url | remove_first: page.dir | split: '/' %}
+
+{% if item_crumbs.size == 1 and item.name == 'index.html' %}
+
+<p>
+<div class="col-xs-12 col-sm-8 col-md-6 col-lg-6">
+    <div class="card-flyer">
+        <div class="text-box">
+            <!-- <div class="image-box">
+                    <img src="{{ item.url | relative_url }}/{{item.featuredImage}}" alt="{{ item.title }}" />
+                </div> -->
+            <div class="text-container">
+                <h6><b>{{ item.title }}</b> &nbsp; ({{item.project_period}})</h6>
+                <p>{{ item.description }}<br />
+                <a href="{{ item.url | relative_url }}">Learn more...</a></p>
+        </div>
+            </div>
+            
+    </div>
+</div>
+<br />
+</p>
+
+{% endif %}
+{% endfor %}
+</p>
+<p>
+<div>
+    <h5><i>Finished Research Projects:</i></h5>
+</div>
+
+{% assign projects = site.pages | where:"current", false %}
+{% for item in projects %}
+{% assign item_crumbs = item.url | remove_first: page.dir | split: '/' %}
+
+{% if item_crumbs.size == 1 and item.name == 'index.html' %}
+
+<p>
+<div class="col-xs-12 col-sm-8 col-md-6 col-lg-6">
+    <div class="card-flyer">
+        <div class="text-box">
+            <!-- <div class="image-box">
+                    <img src="{{ item.url | relative_url }}/{{item.featuredImage}}" alt="{{ item.title }}" />
+                </div> -->
+            <div class="text-container">
+                <h6><b>{{ item.title }}</b> &nbsp; ({{item.project_period}})</h6>
+                <p>{{ item.description }}<br />
+                <a href="{{ item.url | relative_url }}">Learn more...</a></p>
+            </div>
+           
+        </div>
+    </div>
+</div>
+<br />
+</p>
+
+{% endif %}
+{% endfor %}
+
+</p>

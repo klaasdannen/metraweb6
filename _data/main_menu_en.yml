@@ -14,6 +14,10 @@
       url: /en/products/rfid
     - title: IPS
       url: /en/products/ips
+    - title: IoT
+      url: /en/products/iot
+    - title: OEM Design
+      url: /en/products/oem-design
 - title: Support
   url: "/en/support/"
   sublinks:
@@ -24,10 +28,10 @@
 - title: More
   url: "/en/more/"
   sublinks:
-    - title: R&D Projects
-      url: /en/more/research
     - title: Sales Partner
-      url: /en/more/salespartner
+      url: /en/more/sales-partner
+    - title: Research Projects
+      url: /en/more/research-projects
 - title: About
   url: "/en/about/"
   sublinks:

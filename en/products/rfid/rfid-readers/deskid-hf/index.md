@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "DeskID ISO HF Reader"
 rank: "10"
 section: "RFID"

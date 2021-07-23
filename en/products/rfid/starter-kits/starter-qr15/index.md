@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "QR15 Starter Kit"
 rank: "070"
 section: "RFID"

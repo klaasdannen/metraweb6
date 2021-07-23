@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "DeskID MF Reader"
 rank: "20"
 section: "RFID"

@@ -1,0 +1,26 @@
+---
+layout: page
+---
+
+<div class="row content">
+    <div class="col-lg-3">
+        <p><i>Gefördert durch/Funded by:</i></p>
+        <img src="{{page.featuredImage}}" class="img-fluid" style="max-width:220px" alt="">
+    </div>
+    <div class="col-9">
+        <h2>{{page.title}}</h2>
+        <div class="row">
+            <div class="col-lg-8 pt-6 pt-lg-0">
+                <p>
+                    {{ content }}
+                </p>
+            </div>
+         
+        </div>
+        <p>
+            <a onclick="window.history.back()"><button type="button" class="btn btn-outline-dark rounded-pill"">Back to Overview</button></a>
+
+        </p>
+     
+    </div>
+</div>

@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "QuasarMF Reader"
 rank: "80"
 section: "RFID"

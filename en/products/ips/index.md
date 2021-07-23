@@ -1,10 +1,8 @@
 ---
 layout: product_segment
 title: "Indoor Positioning"
-section: "IPS"
-type: "product_section"
 ---
-# Localization
+# Indoor Localization
 ***
 
 Indoor positioning system is a technology that is quite similar to the well-known GPS (Global Positioning System). However, since the signals of the GPS satellites cannot be received inside buildings, an alternative source of position data is needed if you want to determine the position of a person or object inside a building.

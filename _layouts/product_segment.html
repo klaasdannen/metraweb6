@@ -5,11 +5,28 @@ layout: page
 {{ content}}
 
 {% for item in site.pages %}
-        {% assign item_crumbs = item.url | remove_first: page.dir | split: '/' %}
+{% assign item_crumbs = item.url | remove_first: page.dir | split: '/' %}
 
-        {% if item_crumbs.size == 1 and item.name == 'index.md' %}
-        <li>
-            <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-        </li>
-        {% endif %}
-    {% endfor %}
+{% if item_crumbs.size == 1 and item.name == 'index.md' %}
+
+<div class="col-9">
+
+    <div class="row">
+        <div class="col-lg-2 pt-2 pt-lg-0">
+            <img src="{{ item.url | relative_url }}/{{item.featuredImage}}" class="img-fluid" style="max-width:220px"
+                alt="{{item.title}}">
+
+        </div>
+        <div class="col-lg-6 pt-6 pt-lg-0">
+            <p>
+            <h4>
+                <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+            </h4>
+            {{item.description}}
+            </p>
+        </div>
+    </div>
+</div>
+
+{% endif %}
+{% endfor %}

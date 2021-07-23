@@ -1542,3 +1542,11 @@ section {
   letter-spacing: 1px;
   color: #00acc1;
 }
+
+.inner-page{
+padding-top: 15px;
+}
+
+.map{
+  padding: 0px;
+}

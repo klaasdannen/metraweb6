@@ -2,9 +2,8 @@
 layout: product_group
 title: "Starter Kits"
 rank: "5"
-section: "RFID"
-group: "Starter Kits"
-type: "product_group"
+description: "The easiest way to get to know our products..."
+featuredImage: 
 ---
 # Product Overview Starter Kits
 ***

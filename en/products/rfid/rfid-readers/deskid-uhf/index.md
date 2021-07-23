@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "DeskID UHF USB RFID Reader"
 rank: "30"
 section: "RFID"

@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "QuasarMR1 Mid-Range HF Reader"
 rank: "60"
 section: "RFID"

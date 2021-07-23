@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "Starter Kit HF Midi"
 rank: "090"
 section: "RFID"

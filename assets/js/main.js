@@ -1,9 +1,4 @@
-/**
-* Template Name: MyBiz - v4.3.0
-* Template URL: https://bootstrapmade.com/mybiz-free-business-bootstrap-theme/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 (function() {
   "use strict";
 

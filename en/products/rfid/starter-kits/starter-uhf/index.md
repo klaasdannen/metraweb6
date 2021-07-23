@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "Starter Kit UHF"
 rank: "110"
 section: "RFID"

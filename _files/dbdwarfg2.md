@@ -4,4 +4,5 @@ filename_en: Datasheet DwarfG2
 filetype: PDF
 size: 145 kB
 link: "datasheets/test.pdf"
+type: document
 ---

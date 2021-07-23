@@ -7,28 +7,111 @@ title: Downloads
 <div class="border-top mb-3"></div>
 
 <p>
-    On this page you find all our files like datasheets,
-    documentation or software that are necessary to use our
-    products.
+  On this page you find all our files like datasheets,
+  documentation or software that are necessary to use our
+  products.
 </p>
 
+
+
+
+
+
+
 <div className="mb-5">
-    <h4>Documents</h4>
-    <div className="col-md-9 mt-3">
-      <FileTable tableContent={data.documents.edges} />
-    </div>
-  </div>
+  <h4>Documents</h4>
+  <div className="col-md-9 mt-3">
 
-  <div className="mb-5">
-    <h4>Firmware</h4>
-    <div className="col-md-9 mt-3">
-      <FileTable tableContent={data.firmware.edges} />
-    </div>
-  </div>
+    <table class="table">
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">Filename</th>
+          <th scope="col">Version</th>
+          <th scope="col">Size</th>
+          <th scope="col"> </th>
+        </tr>
+      </thead>
+      <tbody>
+        {% assign doc_files = site.files | where:"type", "document" %}
+        {% for file in doc_files %}
 
-  <div className="mb-5">
-    <h4>Software</h4>
-    <div className="col-md-9 mt-3">
-      <FileTable tableContent={data.software.edges} />
-    </div>
+        <tr>
+          <th scope="row">{{file.filename_de}}</th>
+          <td>{{file.filetype}}</td>
+          <td>{{file.size}}</td>
+          <td><a href="/assets/files/{{file.link}}" download><button
+                class="btn btn-small btn-outline-primary rounded-pill">Download</button></a>
+          </td>
+        </tr>
+
+        {% endfor %}
+
+      </tbody>
+    </table>
+
   </div>
+</div>
+
+<div className="mb-5">
+  <h4>Firmware</h4>
+  <div className="col-md-9 mt-3">
+    <table class="table">
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">Filename</th>
+          <th scope="col">Version</th>
+          <th scope="col">Size</th>
+          <th scope="col"> </th>
+        </tr>
+      </thead>
+      <tbody>
+        {% assign fw_files = site.files | where:"type", "firmware" %}
+        {% for file in fw_files %}
+        <tr>
+          <th scope="row">{{file.filename_de}}</th>
+          <td>{{file.filetype}}</td>
+          <td>{{file.size}}</td>
+          <td><a href="/assets/files/{{file.link}}" download><button
+                class="btn btn-small btn-outline-primary rounded-pill">Download</button></a>
+          </td>
+        </tr>
+
+        {% endfor %}
+
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<div className="mb-5">
+  <h4>Software</h4>
+  <div className="col-md-9 mt-3">
+
+    <table class="table">
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">Filename</th>
+          <th scope="col">Version</th>
+          <th scope="col">Size</th>
+          <th scope="col"> </th>
+        </tr>
+      </thead>
+      <tbody>
+        {% assign sw_files = site.files | where:"type", "software" %}
+        {% for file in sw_files %}
+        <tr>
+          <th scope="row">{{file.filename_de}}</th>
+          <td>{{file.filetype}}</td>
+          <td>{{file.size}}</td>
+          <td><a href="/assets/files/{{file.link}}" download><button
+                class="btn btn-small btn-outline-primary rounded-pill">Download</button></a>
+          </td>
+        </tr>
+
+        {% endfor %}
+
+      </tbody>
+    </table>
+
+  </div>
+</div>

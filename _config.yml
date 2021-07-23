@@ -17,6 +17,7 @@ author:              "Klaas Dannen"
 
 collections:
   - files
+  - salespartner
 
 
 defaults:

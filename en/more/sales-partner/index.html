@@ -1,0 +1,34 @@
+---
+layout: page
+title: Sales Partner
+---
+<h1>Overview of sales partners</h1>
+<div class="border-top mb-3"></div>
+
+<p>
+    Besides from metraTec you can also purchase our products from
+    different distribution partners. These companies not only
+    supply our products but also offer valuable local support as
+    well as integration services. Here is a list of our official
+    distribution partners.
+</p>
+
+{% for partner in site.salespartner %}
+
+<p>
+<div class="row no-gutters">
+    <div class="col-2">
+        <img src="/assets/img/salespartner/{{partner.featuredImage}}" class="img-fluid" style="max-width:150px" alt="{{partner.title}}">
+    </div>
+    <div class="col">
+        <div class="card-block px-0">
+            <h4 class="card-title">{{partner.title}} ({{partner.country_en}})</h4>
+            <p class="card-text">{{partner.description_en}}</p>
+            <a href="{{partner.homepage}}">{{partner.homepage}}</a>
+        </div>
+    </div>
+</div>
+<br />
+</p>
+
+{% endfor %}

@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "Starter Kit HF Maxi"
 rank: "080"
 section: "RFID"

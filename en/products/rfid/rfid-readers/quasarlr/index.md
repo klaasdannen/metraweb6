@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "QuasarLR Long-Range HF Reader"
 rank: "70"
 section: "RFID"

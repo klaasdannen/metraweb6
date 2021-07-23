@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "PulsarMX UHF Mid-Range Reader"
 rank: "90"
 section: "RFID"

@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "DwarfG2 XR Starter Kit"
 rank: "050"
 section: "RFID"

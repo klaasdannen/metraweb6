@@ -1,5 +1,5 @@
 ---
-path: "/"
+layout: product_page
 title: "QuasarMX HF RFID Reader"
 rank: "50"
 section: "RFID"

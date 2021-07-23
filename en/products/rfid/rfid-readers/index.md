@@ -2,9 +2,8 @@
 layout: product_group
 title: "RFID Readers"
 rank: "15"
-section: "RFID"
-group: "RFID Readers"
-type: "product_group"
+description: "Scan transponders and read and write data wirelessly"
+featuredImage: 
 ---
 # Product Overview RFID Readers/Writers
 ***

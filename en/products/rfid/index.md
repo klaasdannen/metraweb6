@@ -1,10 +1,8 @@
 ---
 layout: product_segment
 title: "RFID"
-section: "RFID"
-type: "product_section"
 ---
-# Wireless Identification
+# Radio Frequency Identification
 ***
 
 RFID technology is used for the unique and contactless identification of objects or persons via radio. RFID systems are widely used today and are used for various applications. Especially the possibility to read RFID transponders over a certain distance is an enormous advantage over alternative identification systems.
