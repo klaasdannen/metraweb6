@@ -1,0 +1,16 @@
+- name: "Klaas Dannen"
+  title_en: "Managing Director / Sales"
+  title_de: "Geschäftsführer / Vertrieb"
+  image: team-1.jpg
+  description_en: "Master of Disaster"
+  description_de: "Master of Disaster"
+- name: "Dr. Tobias Meyer"
+  title_en: "Head of R&D"
+  title_de: "Leiter F&E"
+  image: team-3.jpg
+  description_en: "Resident Punk"
+- name: "Dr. Frank Steyer"
+  title_en: "Managing Director / Operations"
+  title_de: "Geschäftsführer / Produktion"
+  image: team-2.jpg
+  description_en: "Meister of Kleister"

@@ -1416,7 +1416,7 @@ section {
 
 #footer .footer-top .footer-newsletter form {
   margin-top: 30px;
-  background: #fff;
+  /* background: #fff; */
   padding: 6px 10px;
   position: relative;
   border-radius: 4px;

@@ -1,10 +1,7 @@
 ---
-path: "/"
+path: product_page
 title: "Userscript Plugin"
 rank: "60"
-section: "IoT"
-group: "IoT Engine"
-type: "product"
 featuredImage: userscript.png
 bulletPoints:
   []
