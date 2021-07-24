@@ -3,7 +3,7 @@ layout: product_group
 title: "Starter Kits"
 rank: "5"
 description: "The easiest way to get to know our products..."
-featuredImage: 
+featuredImage: starterkit.jpg
 ---
 # Product Overview Starter Kits
 ***

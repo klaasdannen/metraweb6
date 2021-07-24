@@ -34,6 +34,7 @@ layout: page
                                 <tr>
                                     <th scope="col">Filename</th>
                                     <th scope="col">Version</th>
+                                    <th scope="col">Type</th>
                                     <th scope="col">Size</th>
                                     <th scope="col"> </th>
                                 </tr>
@@ -41,10 +42,9 @@ layout: page
                             <tbody>
                                 {% for linked_file in page.linked_files%}
                                 {% assign file = site.files | where:"title", linked_file | first %}
-
-
                                 <tr>
-                                    <th scope="row">{{file.filename_de}}</th>
+                                    <td>{{file.filename_de}}</td>
+                                    <td>{{file.version}}</td>
                                     <td>{{file.filetype}}</td>
                                     <td>{{file.size}}</td>
                                     <td><a href="/assets/files/{{file.link}}" download><button

@@ -1,0 +1,13 @@
+- heading: "RFID Solutions"
+  description: "Identify mobile objects without batteries over a few meters with our radio frequency identification products."
+  link: /en/products/rfid/
+  image: BG_Banner_1.jpg
+  default: active
+- heading: "Indoor Localization"
+  description: "Quickly find objects like boxes, vehicles or people in your warehouse and production facilities."
+  link: /en/products/ips
+  image: BG_Banner_2.jpg
+- heading: "OEM Design"
+  description: "We support you with integrating our OEM modules into your PCB, design custom antennas for you and help with electro-magnetic compliance issues."
+  link: /en/products/oem-design
+  image: BG_Banner_3.jpg
