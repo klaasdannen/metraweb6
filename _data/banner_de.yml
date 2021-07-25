@@ -1,13 +1,13 @@
 - heading: "RFID"
   description: "Identifizieren Sie Objekte ohne Batterie auf Distanzen bis zu ein paar Meters mit unseren Radiofrequenz-Identikations-Produkten"
   link: /de/produkte/rfid
-  image: BG_Banner_1.jpg
+  image: banner_1.jpg
   default: active
 - heading: "Indoor Lokalisierung"
   description: ""
   link: /de/produkte/ips
-  image: BG_Banner_2.jpg
+  image: banner_2.jpg
 - heading: "OEM Design"
   description: "Wir unterstützen Sie bei der Integration unserer Module in Ihre Elektronik, entwickeln maßgeschneiderte Antennen und Testen Platinen auf elektromagnetische Verträglichkeit"
   link: /de/produkte/oem
-  image: BG_Banner_3.jpg
+  image: banner_3.jpg

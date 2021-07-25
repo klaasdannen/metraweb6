@@ -1,3 +1,0 @@
-{
-    "query": "query { allPost { title, author { name } } }"
-}

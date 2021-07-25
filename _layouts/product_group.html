@@ -12,16 +12,18 @@ layout: page
     <p>
     <div class="row">
         <div class="col-lg-3 pt-3 pt-lg-0">
-            <img src="{{ item.url | relative_url }}/{{item.featuredImage}}" class="img-fluid" style="max-width:200px; max-height:200px"
-                alt="{{item.title}}">
+            <img src="{{ item.url | relative_url }}/{{item.featuredImage}}" class="img-fluid"
+                style="max-width:200px; max-height:200px" alt="{{item.title}}">
 
         </div>
         <div class="col-lg-6 pt-6 pt-lg-0">
             <p>
             <h4>
-                <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {{ item.title }}
             </h4>
             {{item.description}}
+            <br />
+            <a href="{{ item.url | relative_url }}">Product Page</a>
             </p>
         </div>
     </div>

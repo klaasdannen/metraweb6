@@ -9,24 +9,27 @@ layout: page
 
 {% if item_crumbs.size == 1 and item.name == 'index.md' %}
 
-<div class="col-9">
-
-    <div class="row">
-        <div class="col-lg-2 pt-2 pt-lg-0">
-            <img src="{{ item.url | relative_url }}/{{item.featuredImage}}" class="img-fluid" style="max-width:220px"
-                alt="{{item.title}}">
-
+<p>
+    <div class="row no-gutters">
+        <div class="col-2">
+            <img src="{{ item.url | relative_url }}/{{item.featuredImage}}" class="img-fluid" style="max-width:150px" alt="{{partner.title}}">
         </div>
-        <div class="col-lg-6 pt-6 pt-lg-0">
-            <p>
-            <h4>
-                <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
-            </h4>
-            {{item.description}}
-            </p>
+        <div class="col">
+            <div class="card-block px-0">
+                <p>
+                    <h4>
+                        {{ item.title }}
+                    </h4>
+                    {{item.description}}
+                    <br />
+                    <a href="{{ item.url | relative_url }}">See all products
+                    </a>
+                    </p>
+            </div>
         </div>
     </div>
-</div>
+    <br />
+    </p>
 
 {% endif %}
 {% endfor %}

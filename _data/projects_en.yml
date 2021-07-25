@@ -1,0 +1,12 @@
+- heading: "Tracking Rental Items"
+  description: "With help of our IPS technology, a rental company for construction equipment keeps track of the position of over 70.000 items on their 100+ rental stations in Germany."
+  icon: bi bi-pin-map
+- heading: "Production Tracking"
+  description: "Using passive RFID we give an international producer of candy and sweets a real time overview of the last position of more then 10.000 pallets in their 10+ factories around the world including product status."
+  icon: "bi bi-box"
+- heading: "Evacuation Management"
+  description: "A national retail chain is using our indoor positioning system to increase the safety of their 1.000+ employees by tracking the evacuation process in case of fire in their main buildings."
+  icon: "bi bi-building"
+- heading: "Consumable Management"
+  description: "An international food cooperation is using our miniature UHF modules to check their consumables "
+  icon: "bi bi-check-square"
