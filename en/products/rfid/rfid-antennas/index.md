@@ -2,9 +2,8 @@
 layout: product_group
 title: "RFID Antennas"
 rank: "20"
-section: "RFID"
-group: "RFID Antennas"
-type: "product_group"
+description: "Antennas are the hearth of every radio product and here you find our selection of different types."
+
 ---
 # RFID Antennas
 ***

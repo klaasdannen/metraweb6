@@ -2,9 +2,8 @@
 layout: product_group
 title: "Full Systems"
 rank: "70"
-section: "RFID"
-group: "Full Systems"
-type: "product_group"
+description: "If you want a complete scanning solution including integration with conveyor belts and industrial control systems, this is the section for you."
+
 ---
 # Full Systems
 ***

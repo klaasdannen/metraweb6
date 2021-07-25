@@ -1,10 +1,9 @@
 ---
 layout: product_group
-title: "IoT Engine Middleware"
+title: "IoT-Engine Middleware"
 rank: "60"
-section: "RFID"
-group: "RFID Middleware"
-type: "product_group"
+description: "Need to manage and control multiple RFID readers, filter and store data and trigger events for other machines? Then our IoT-Engine middleware is the right product for you."
+
 ---
 # RFID Middleware "IoT Engine"
 ***

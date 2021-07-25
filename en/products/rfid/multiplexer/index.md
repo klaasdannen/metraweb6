@@ -2,9 +2,8 @@
 layout: product_group
 title: "RFID Multiplexer"
 rank: "30"
-section: "RFID"
-group: "Multiplexer"
-type: "product_group"
+description: "Connect multiple antennas to one RFID reader with our multiplexer and decrease system cost."
+
 ---
 # RFID Multiplexer - one Reader, many Antennas
 ***
