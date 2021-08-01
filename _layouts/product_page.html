@@ -3,11 +3,12 @@ layout: page
 ---
 
 <div class="row content">
-    <div class="col-lg-3">
-        <img src="{{page.featuredImage}}" class="img-fluid" style="max-width:220px" alt="Test">
+    <div class="col-12 col-lg-3 mx-1 pt-2">
+        <img src="{{page.featuredImage}}" class="img-fluid" style="max-height:250px" alt="Test">
     </div>
-    <div class="col-9">
+    <div class="col-lg-8 pt-lg-0 pt-4 mx-1">
         <h2>{{page.title}}</h2>
+        <hr />
         <div class="row">
             <div class="col-lg-8 pt-6 pt-lg-0">
                 <p>
@@ -22,14 +23,14 @@ layout: page
                 </ul>
             </div>
         </div>
-        <p>
+        <div class="py-2">
             <a onclick="window.history.back()"><button type="button" class="btn btn-outline-dark rounded-pill"">Back to Overview</button></a>
-        </p>
+        </div>
     </div>
     
-    <div class=" row">
+    <div class=" row pt-3">
                     <div class="col-lg-6 pt-6 pt-lg-0 offset-lg-3">
-                        <table class="table">
+                        <table class="table rounded">
                             <thead class="thead-light">
                                 <tr>
                                     <th scope="col">Filename</th>
