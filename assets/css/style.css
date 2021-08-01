@@ -9,7 +9,9 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
+  /* font-family: "Open Sans", sans-serif; */
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
   color: #444444;
 }
 
@@ -23,8 +25,14 @@ a:hover {
   text-decoration: none;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1 {
   font-family: "Raleway", sans-serif;
+  font-weight: 400;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: "Raleway", sans-serif;
+  font-weight: 300;
 }
 
 /*--------------------------------------------------------------
@@ -183,7 +191,7 @@ h1, h2, h3, h4, h5, h6 {
   padding: 10px 0 10px 30px;
   font-family: "Raleway", sans-serif;
   font-size: 13px;
-  font-weight: 600;
+  font-weight: 400;
   color: #404f52;
   white-space: nowrap;
   text-transform: uppercase;
