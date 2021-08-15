@@ -1,0 +1,24 @@
+---
+layout: page
+title: FAQ
+---
+
+<h1>Frequently Asked Questions</h1>
+<div class="border-top mb-3"></div>
+
+<p>
+    This area contains the questions our customer ask us most
+    frequently. Maybe your question is also in this list and can be
+    answered right away...
+</p>
+
+<ul>
+    {% for item in site.data.faq_en %}
+    <li>
+        {{item.question}}
+        <br />
+        {{item.answer}}
+    </li>
+    <br />
+    {% endfor %}
+</ul>

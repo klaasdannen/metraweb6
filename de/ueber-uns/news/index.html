@@ -1,0 +1,37 @@
+---
+layout: page
+title: News
+---
+<h1>Press Releases and more</h1>
+<div class="border-top mb-3"></div>
+
+<p>
+    Here you find all previous press releases from metraTec in a single spot...<br /><br />
+</p>
+
+{% for item in site.pages %}
+{% assign item_crumbs = item.url | remove_first: page.dir | split: '/' %}
+
+{% if item_crumbs.size == 1 and item.name == 'index.html' %}
+
+<p>
+<div class="col-xs-12 col-sm-8 col-md-6 col-lg-6">
+    <div class="card-flyer">
+        <div class="text-box">
+            <!-- <div class="image-box">
+                    <img src="{{ item.url | relative_url }}/{{item.featuredImage}}" alt="{{ item.title }}" />
+                </div> -->
+            <div class="text-container">
+                <h6><b>{{item.date}} - {{ item.title }}</b></h6>
+                <p>{{ item.content | truncate: 150 }}<br />
+                <a href="{{ item.url | relative_url }}">More...</a></p>
+            </div>
+           
+        </div>
+    </div>
+</div>
+<br />
+</p>
+
+{% endif %}
+{% endfor %}

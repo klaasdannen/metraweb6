@@ -1,12 +1,12 @@
 - title: Lösungen
-  url: "/de/solutions/"
+  url: "/de/loesungen/"
   sublinks:
     - title: Identifikation
-      url: /de/solutions/identification
-    - title: Localization
-      url: /de/solutions/localization
-    - title: IoT
-      url: /de/solutions/iot
+      url: /de/loesungen/identifikation
+    - title: Lokalisierung
+      url: /de/loesungen/lokalisierung
+    - title: OEM Design
+      url: /de/loesungen/oem-design
 - title: Produkte
   url: "/de/produkte/"
   sublinks:
@@ -14,6 +14,10 @@
       url: /de/produkte/rfid
     - title: IPS
       url: /de/produkte/ips
+    - title: IoT
+      url: /de/produkte/iot
+    - title: OEM Design
+      url: /de/produkte/oem-design
 - title: Support
   url: "/de/support/"
   sublinks:
@@ -24,9 +28,9 @@
 - title: Mehr
   url: "/de/mehr/"
   sublinks:
-    - title: FuE Projekte
-      url: /en/mehr/fue
     - title: Vertriebspartner
-      url: /de/mehr/salespartner
+      url: /de/mehr/vertriebspartner
+    - title: FuE Projekte
+      url: /de/mehr/fue-projekte
 - title: Über uns
-  url: "/de/ueberuns/"
+  url: "/de/ueber-uns/"

@@ -1,10 +1,10 @@
 - heading: "RFID"
-  description: "Identifizieren Sie Objekte ohne Batterie auf Distanzen bis zu ein paar Meters mit unseren Radiofrequenz-Identikations-Produkten"
+  description: "Identifizieren Sie Objekte ohne Batterie auf Distanzen bis zu ein paar Metern mit unseren Radiofrequenz-Identikations-Produkten"
   link: /de/produkte/rfid
   image: banner_1.jpg
   default: active
 - heading: "Indoor Lokalisierung"
-  description: ""
+  description: "Beschleunigen Sie die Suche nach Kisten, Fahrzeugen und Mitarbeitern in Ihrem Lager oder in der Produktion."
   link: /de/produkte/ips
   image: banner_2.jpg
 - heading: "OEM Design"
