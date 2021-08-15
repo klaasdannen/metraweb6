@@ -21,8 +21,17 @@ layout: page
                         {{ item.title }}
                     </h4>
                     {{item.description}}
+                    
+                 
                     <br />
-                    <a href="{{ item.url | relative_url }}">See all products
+                    <a href="{{ item.url | relative_url }}">
+                        
+                        {% if page.lang == 'en'%}
+                        See all products
+                        {% else %}
+                        Alle Produkte ansehen
+                        {% endif %}
+                        
                     </a>
                     </p>
             </div>

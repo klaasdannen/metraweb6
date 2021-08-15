@@ -33,10 +33,23 @@ layout: page
                         <table class="table rounded">
                             <thead class="thead-light">
                                 <tr>
-                                    <th scope="col">Filename</th>
+                                    <th scope="col">{% if page.lang == 'en'%}
+                                        Filename
+                                        {% else %}
+                                        Dateiname
+                                        {% endif %}
+                                        </th>
                                     <th scope="col">Version</th>
-                                    <th scope="col">Type</th>
-                                    <th scope="col">Size</th>
+                                    <th scope="col">{% if page.lang == 'en'%}
+                                        Type
+                                        {% else %}
+                                        Typ
+                                        {% endif %}</th>
+                                    <th scope="col">{% if page.lang == 'en'%}
+                                        Size
+                                        {% else %}
+                                        Größe
+                                        {% endif %}</th>
                                     <th scope="col"> </th>
                                 </tr>
                             </thead>

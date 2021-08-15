@@ -2,6 +2,8 @@
 layout: product_group
 title: "IoT Engine"
 rank: "40"
+description: "Mit unserer Middleware verbinden Sie einfach unsere Hardware mit Ihrer IT. Die Software ist aus unterschiedlichen Plug-Ins aufgebaut, so dass Sie nur die Komponenten installieren, welche für Ihre Lösung notwendig sind."
+featuredImage: iot.png
 ---
 # IoT Engine Middleware
 

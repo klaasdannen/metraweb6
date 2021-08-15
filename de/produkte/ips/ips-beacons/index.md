@@ -2,6 +2,8 @@
 layout: product_group
 title: "IPS Beacons"
 rank: "10"
+description: "Die IPS Beacons sind die mobilen Knoten, welche an den zu ortenden Objekten befestigt werden. Für jeden Anwendungsfall sind unterschiedliche Formfaktoren erhältlich."
+featuredImage: beaconr.jpg
 ---
 # IPS Beacons
 

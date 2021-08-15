@@ -23,7 +23,11 @@ layout: page
             </h4>
             {{item.description}}
             <br />
-            <a href="{{ item.url | relative_url }}">Product Page</a>
+            <a href="{{ item.url | relative_url }}">{% if page.lang == 'en'%}
+                To Product Page
+                {% else %}
+                Zur Produktseite
+                {% endif %}</a>
             </p>
         </div>
     </div>

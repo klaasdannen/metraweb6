@@ -1,20 +1,23 @@
 ---
 layout: product_segment
-title: "Indoor Positioning"
+title: "Indoor Positionierung"
+
 ---
-# Indoor Localization
+# Indoor-Lokalisierung (IPS / RTLS)
 ***
 
-Indoor positioning system is a technology that is quite similar to the well-known GPS (Global Positioning System). However, since the signals of the GPS satellites cannot be received inside buildings, an alternative source of position data is needed if you want to determine the position of a person or object inside a building.
+Beim Indoor-Positioning-System handelt es sich um eine Technologie, die dem bekannten GPS (Global Positioning System) recht ähnlich ist. Da die Signale der GPS Satelliten jedoch innerhalb von Gebäuden nicht empfangen werden können, wird eine alternative Quelle für Positionsdaten gebraucht, wenn man auch im Gebäude die Position einer Person oder eines Objektes bestimmen möchte.
 
-There are different approaches to this, which are marketed under the terms RTLS (Real Time Locating System) or IPS.
+Hierzu gibt es unterschiedliche Ansätze, welche unter den Begriffen RTLS (Real Time Locating System) oder IPS (Indoor Positioning System) vermarktet werden.
 
-## Background knowledge Indoor Positioning Systems (IPS)
+## Hintergrundwissen
 
-Locating vehicles, containers and even people via GPS is now a widely used technology that makes many areas of life easier. One limitation of GPS, however, is that it only works outdoors, where the signals from the satellites can be easily received. If you want to locate people or objects inside buildings, you have to resort to alternative technologies.
+Die Ortung von Fahrzeugen, Containern oder Personen mit Hilfe von GPS ist inzwischen eine weit verbreitete Technologie, die viele Bereiche des Lebens einfacher gestaltet. Eine Einschränkung von GPS ist jedoch, dass es nur im Außenbereich funktioniert, wo die Signale der Satelliten gut empfangen werden können. Möchte man innerhalb von Gebäuden orten, muss man auf alternative Technologien zurückgreifen.
 
-A particularly flexible technology is the use of local radio cells as used in metraTec's Indoor Positioning System (IPS). Alternatively this technology is also called RTLS (Real Time Locating System). In this case a system of transmitters and receivers is installed in the building that works like a private satellite network so that the position can be determined directly. The special feature of metraTec's IPS is that not necessarily the entire building or warehouse needs to be equipped with the system, but only the relevant areas. This reduces infrastructure costs and leads to fewer problems with data protection, as sensitive areas such as lounges can be excluded from monitoring.
+Eine besonders flexible Technologie ist der Einsatz von lokalen Funkzellen, wie sie im Indoor Positioning System (IPS) von metraTec genutzt werden. Alternativ wird diese Technologie auch als RTLS (Real Time Locating System) bezeichnet. Hierbei wird im Gebäude ein System aus Sendern und Empfängern installiert, die wie ein privates Satelliten-Netz funktionieren. Die Besonderheit beim IPS von metraTec ist, dass nicht zwingend das gesamte Gebäude oder die ganze Lagerhalle mit dem System ausgerüstet werden muss, sondern nur die relevanten Bereiche. Dies senkt die Infrastrukturkosten und führt zu weniger Problemen mit dem Datenschutz, da zum Beispiel sensitive Bereiche, wie Aufenthaltsräume von der Überwachung ausgenommen werden können.
 
-To ensure the interoperability of the system, the metraTec IPS works with open standards as far as possible. The communication between Beacon and receiver works according to the IEEE 802.15.4 standard, which also allows coexistence with WLAN. The IPS Engine software returns the location results according to the ISO 24730-1 API, so any software implementing this API can work directly with the results.
+Ist eine genauere Positionsbestimmung mit unter 1 Meter Genauigkeit notwendig, ist die UWB-Technologie (Ultrawide-Band) die richtige Lösung. Unter dem Namen IPS+ bietet metraTec ein passendes System an - und das beste: Die Produkte sind kompatibel zu unserem klassischen IPS. So erhalten Sie die beste Kombination aus sehr langen Batterielaufzeiten und genauer Ortung. In Außenbereichen kann zudem weiter über IPS lokalisiert werden, was reine UWB-Lösungen aus rechtlichen Gründen nicht ermöglichen.
 
-***If you need further information or have questions about localization, please feel free to contact us.***
+Um die Interoperabilität des Systems zu gewährleisten, arbeitet das metraTec IPS soweit wie möglich mit offenen Standards. Die Kommunikation zwischen Beacon und Empfänger arbeitet nach dem IEEE 802.15.4 Standard, der auch eine Koexistenz mit WLAN und Bluetooth erlaubt.
+
+***Falls Sie weitere Informationen benötigen oder Fragen zum Thema Lokalisierung haben, können Sie uns jederzeit kontaktieren.***

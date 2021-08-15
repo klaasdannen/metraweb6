@@ -2,6 +2,8 @@
 layout: product_group
 title: "IPS Starter Kits"
 rank: "30"
+description: "Mit einem IPS Starter Kit können Sie schnell und einfach ein Testsystem aufbauen und unsere Lokalisierungstechnologie selbst ausprobieren."
+featuredImage:
 ---
 # IPS Starter Kit
 ***

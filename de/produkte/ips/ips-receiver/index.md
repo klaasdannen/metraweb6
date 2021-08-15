@@ -2,6 +2,8 @@
 layout: product_group
 title: "IPS Receiver"
 rank: "20"
+description: "Der Empfang der IPS Signale erfolgt durch einen IPS Receiver, welche in unterschiedlichen Varianten verfügbar sind."
+featuredImage: receiver.jpg
 ---
 # IPS Ethernet Receiver
 
