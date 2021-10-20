@@ -1,9 +1,9 @@
 ---
 layout: product_group
 title: "RFID Readers"
-rank: "15"
-description: "Scan transponders and read and write data wirelessly"
-featuredImage: 
+rank: 15
+description: "Scan transponders and read and write data wirelessly at HF and UHF frequencies"
+featuredImage: pulsarmx.jpg
 ---
 # Product Overview RFID Readers/Writers
 ***

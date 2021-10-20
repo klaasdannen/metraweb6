@@ -1,7 +1,9 @@
 ---
 layout: product_group
 title: "IoT Engine"
-rank: "30"
+rank: 30
+description: "??"
+featuredImage: iot.jpg
 ---
 # IoT Engine Middleware
 

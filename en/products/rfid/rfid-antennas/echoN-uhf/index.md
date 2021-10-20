@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "Echo-N UHF Nearfield Antenna"
-rank: "40"
+rank: 40
 section: "RFID"
 group: "RFID Antennas"
 type: "product"
+description: "A specialized UHF near field antenna - read UHF tags only in the vicinity without worrying about 'ghost tags'."
 featuredImage: echoN.jpg
 bulletPoints:
   - Locally limited UHF field 

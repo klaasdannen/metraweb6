@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "Echo-5P UHF Antenna"
-rank: "10"
+rank: 10
 section: "RFID"
 group: "RFID Antennas"
 type: "product"
+description: "A very compact UHF antenna with 90° opening angle for broad tag detection"
 featuredImage: echo5p.jpg
 bulletPoints:
   - Wide Beam Width (100°) 

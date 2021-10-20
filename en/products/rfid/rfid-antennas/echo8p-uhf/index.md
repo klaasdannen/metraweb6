@@ -1,4 +1,5 @@
 ---
+inactive: true
 layout: product_page
 title: "Echo-8P UHF Antenna"
 rank: "30"

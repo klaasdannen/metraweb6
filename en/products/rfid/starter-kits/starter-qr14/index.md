@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "QR14 Starter Kit"
-rank: "060"
+rank: 60
 section: "RFID"
 group: "Starter Kits"
 type: "product"
+description: "If you want to try out embedded RFID based on the Mifare standard, use this starter kit"
 featuredImage: starterqr14.jpg
 bulletPoints:
   - Quick Integration

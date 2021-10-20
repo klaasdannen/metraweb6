@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "Dwarf14 Starter Kit"
-rank: "010"
+rank: 10
 section: "RFID"
 group: "Starter Kits"
 type: "product"
+description: "Get to know our smallest Mifare OEM module with this starter kit"
 featuredImage: starterdwarf14.jpg
 bulletPoints:
   - Quick Integration

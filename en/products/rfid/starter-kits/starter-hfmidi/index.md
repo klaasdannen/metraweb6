@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "Starter Kit HF Midi"
-rank: "090"
+rank: 90
 section: "RFID"
 group: "Starter Kits"
 type: "product"
+description: "Starter Kit for industrial RFID with up to 250mm read range"
 featuredImage: quasarmx.jpg
 bulletPoints:
   - Shortest Time to Market 

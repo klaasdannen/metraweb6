@@ -1,10 +1,11 @@
 ---
-path: "/"
+layout: product_page
 title: "hyperMux-8 UHF Multiplexer"
-rank: "50"
+rank: 50
 section: "RFID"
 group: "Multiplexer"
 type: "product"
+description: "Connect up to eight antennas to a single UHF reader port"
 featuredImage: hypermux8.jpg
 bulletPoints:
   - Short Switching Time

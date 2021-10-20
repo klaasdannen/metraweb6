@@ -1,7 +1,10 @@
 ---
 layout: product_group
 title: "IPS Beacons"
-rank: "10"
+description: "Beacons are the active senders in an RTLS and usually the mobile part"
+rank: 10
+featuredImage: beaconl.jpg
+
 ---
 # IPS Beacons
 

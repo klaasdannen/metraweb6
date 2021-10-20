@@ -1,10 +1,9 @@
 ---
-path: "/"
+layout: product_group
 title: "Design Services"
-rank: "10"
-section: "OEM"
-group: "Design Services"
-type: "product_group"
+rank: 10
+description: "You have the idea - we develop the product for you. Ideally, the product has something to do with RF identification, localization or communication."
+featuredImage: 
 ---
 # Design Services
 ***

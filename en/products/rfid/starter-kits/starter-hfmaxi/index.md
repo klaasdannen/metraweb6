@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "Starter Kit HF Maxi"
-rank: "080"
+rank: 100
 section: "RFID"
 group: "Starter Kits"
 type: "product"
+description: "Starter Kit for industrial RFID with up to 350mm read range"
 featuredImage: quasarmr.jpg
 bulletPoints:
   - Shortest Time to Market 

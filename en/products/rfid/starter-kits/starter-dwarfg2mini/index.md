@@ -1,7 +1,8 @@
 ---
 layout: product_page
 title: "DwarfG2-Mini Starter Kit"
-rank: "040"
+rank: 30
+description: "With this kit you can test embedded RFID and the extremly small UHF module DwarfG2-Mini"
 section: "RFID"
 group: "Starter Kits"
 type: "product"

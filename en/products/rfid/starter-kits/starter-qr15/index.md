@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "QR15 Starter Kit"
-rank: "070"
+rank: 70
 section: "RFID"
 group: "Starter Kits"
 type: "product"
+description: "Test our smallest HF OEM module with integrated antenna with this kit"
 featuredImage: starterqr15.jpg
 bulletPoints:
   - Quick Integration

@@ -1,8 +1,9 @@
 ---
 layout: product_group
 title: "OEM Modules"
-rank: "10"
+rank: 10
 description: "Integrate RFID functionality into your own product in days instead of months and have the fastest time to market with your idea."
+featuredImage: qr15.jpg
 
 ---
 # RFID Modules

@@ -1,10 +1,11 @@
 ---
-path: "/"
+layout: product_page
 title: "Starter Kit HF Mini"
-rank: "100"
+rank: 80
 section: "RFID"
 group: "Starter Kits"
 type: "product"
+description: "Starter Kit for industrial RFID with ab to 100mm read range"
 featuredImage: quasarmx.jpg
 bulletPoints:
   - Shortest Time to Market 

@@ -1,9 +1,12 @@
 ---
 layout: product_group
 title: "IPS Receiver"
-rank: "20"
+rank: 20
+description: "The IPS receivers are usually mounted in your warehouse and transmit IPS data to the server"
+featuredImage: receiver.jpg
+
 ---
-# IPS Ethernet Receiver
+# IPS Receiver
 
 The metraTec Indoor Positioning System (IPS) allows you to create a flexible localization infrastructure to track objects and persons inside buildings where cost and complexity can be adjusted to your needs. If you chose to install a stationary localization system the IPS Receivers will be the central component in your infrastructure.
 

@@ -1,7 +1,9 @@
 ---
 layout: product_group
 title: "TCP to UART"
-rank: "10"
+rank: 10
+description: "Quickly connect your legacy UART device to the local network or even the internet with our TCP to UART converters"
+featuredImage: tuc.jpg
 ---
 # TCP/IP to UART Solutions
 

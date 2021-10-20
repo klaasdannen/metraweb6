@@ -4,7 +4,9 @@ layout: page
 
 {{ content}}
 
-{% for item in site.pages %}
+{% assign sorted = site.pages | sort: 'rank' %}
+
+{% for item in sorted %}
 {% assign item_crumbs = item.url | remove_first: page.dir | split: '/' %}
 
 {% if item_crumbs.size == 1 and item.name == 'index.md' %}
@@ -12,7 +14,7 @@ layout: page
 <p>
     <div class="row no-gutters">
         <div class="col-2">
-            <img src="{{ item.url | relative_url }}/{{item.featuredImage}}" class="img-fluid" style="max-width:150px" alt="{{partner.title}}">
+            <img src="{{ item.url | relative_url }}/{{item.featuredImage}}" class="img-fluid" style="max-width:200px; max-height:200px" alt="{{item.title}}">
         </div>
         <div class="col">
             <div class="card-block px-0">

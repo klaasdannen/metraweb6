@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "Echo-6P UHF Antenna"
-rank: "20"
+rank: 20
 section: "RFID"
 group: "RFID Antennas"
 type: "product"
+description: "A compact general purpose UHF antenna with 60° opening angle"
 featuredImage: echo6p.jpg
 bulletPoints:
   - 6.5 dBic Antenna 

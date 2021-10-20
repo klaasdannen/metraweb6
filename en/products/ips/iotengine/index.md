@@ -2,6 +2,8 @@
 layout: product_group
 title: "IoT Engine"
 rank: "40"
+description: "The IoT-Engine is the middleware that calculates the positions of each beacon and publishes the data to your database, ERP system or cloud service"
+featuredImage: iot.png
 ---
 # IoT Engine Middleware
 

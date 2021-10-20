@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "hfMux-16 HF Multiplexer"
-rank: "30"
+rank: 30
 section: "RFID"
 group: "Multiplexer"
 type: "product"
+description: "Connect up to 16 antennas to a single HF reader port"
 featuredImage: hfmux16.jpg
 bulletPoints:
   - Short Switching Time

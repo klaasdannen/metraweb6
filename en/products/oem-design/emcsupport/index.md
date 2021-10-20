@@ -1,10 +1,10 @@
 ---
-path: "/"
+layout: product_group
 title: "EMC Support"
-rank: "20"
-section: "OEM"
-group: "EMC Support"
-type: "product_group"
+rank: 20
+description: "You have an existing board and need to pass EMC certification but have trouble with unwanted emissions? Maybe we can help."
+featuredImage: 
+
 ---
 # EMC Support
 ***

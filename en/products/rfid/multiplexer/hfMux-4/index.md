@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "hfMux-4 HF Multiplexer"
-rank: "10"
+rank: 10
 section: "RFID"
 group: "Multiplexer"
 type: "product"
+description: "Connect up to four antennas to a single HF reader port"
 featuredImage: hfMux4.jpg
 bulletPoints:
   - Short Switching Time

@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "DwarfG2 Starter Kit"
-rank: "030"
+rank: 40
 section: "RFID"
 group: "Starter Kits"
 type: "product"
+description: "Buy this kit and start with embedded UHF RFID today"
 featuredImage: starterdwarfg2.jpg
 bulletPoints:
   - Quick Integration

@@ -18,3 +18,4 @@ A particularly flexible technology is the use of local radio cells as used in me
 To ensure the interoperability of the system, the metraTec IPS works with open standards as far as possible. The communication between Beacon and receiver works according to the IEEE 802.15.4 standard, which also allows coexistence with WLAN. The IPS Engine software returns the location results according to the ISO 24730-1 API, so any software implementing this API can work directly with the results.
 
 ***If you need further information or have questions about localization, please feel free to contact us.***
+

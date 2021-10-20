@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "Dwarf15 Starter Kit"
-rank: "020"
+rank: 20
 section: "RFID"
 group: "Starter Kits"
 type: "product"
+description: "You want to start with embedded RFID and the ISO15693 standard? Use this kit!"
 featuredImage: Starterdwarf15.jpg
 bulletPoints:
   - Quick Integration

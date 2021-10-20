@@ -3,6 +3,7 @@ layout: product_group
 title: "RFID Antennas"
 rank: "20"
 description: "Antennas are the hearth of every radio product and here you find our selection of different types."
+featuredImage: lambda40.jpg
 
 ---
 # RFID Antennas

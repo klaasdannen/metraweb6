@@ -2,8 +2,8 @@
 layout: product_group
 title: "RFID Multiplexer"
 rank: "30"
-description: "Connect multiple antennas to one RFID reader with our multiplexer and decrease system cost."
-
+description: "Connect multiple antennas to one RFID reader with our multiplexer and decrease system cost and complexity."
+featuredImage: hyperMux16.jpg
 ---
 # RFID Multiplexer - one Reader, many Antennas
 ***
