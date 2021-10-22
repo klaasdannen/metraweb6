@@ -1,11 +1,12 @@
 ---
-path: "/"
+layout: product_page
 title: "TMB3"
-rank: "20"
+rank: 20
 section: "IoT"
 group: "Telematics"
 type: "product"
-featuredImage: []
+description: ""
+featuredImage: tmb3.jpg
 bulletPoints:
   - Bullet 1
   - Bullet 2

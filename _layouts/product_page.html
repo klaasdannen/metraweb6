@@ -27,6 +27,8 @@ layout: page
             <a onclick="window.history.back()"><button type="button" class="btn btn-outline-dark rounded-pill"">Back to Overview</button></a>
         </div>
     </div>
+
+    {% if page.linked_files.size > 0%}
     
     <div class=" row pt-3">
                     <div class="col-lg-6 pt-6 pt-lg-0 offset-lg-3">
@@ -54,10 +56,16 @@ layout: page
                                 </tr>
                             </thead>
                             <tbody>
+                                
                                 {% for linked_file in page.linked_files%}
                                 {% assign file = site.files | where:"title", linked_file | first %}
                                 <tr>
+                                    {% if page.lang == 'de'%}
                                     <td>{{file.filename_de}}</td>
+                                    {% endif %}
+                                    {% if page.lang == 'en'%}
+                                    <td>{{file.filename_en}}</td>
+                                    {% endif %}
                                     <td>{{file.version}}</td>
                                     <td>{{file.filetype}}</td>
                                     <td>{{file.size}}</td>
@@ -72,5 +80,6 @@ layout: page
                         </table>
                     </div>
     </div>
+    {% endif %}
 
 </div>

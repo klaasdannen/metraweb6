@@ -3,7 +3,7 @@ layout: product_group
 title: "EMC Support"
 rank: 20
 description: "You have an existing board and need to pass EMC certification but have trouble with unwanted emissions? Maybe we can help."
-featuredImage: 
+featuredImage: emv.png
 
 ---
 # EMC Support

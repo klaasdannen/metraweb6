@@ -4,6 +4,7 @@ title: "TUC Evaluation Board"
 rank: 10
 section: "IoT"
 group: "TCP to UART"
+description: ""
 featuredImage: evaboard.jpg
 bulletPoints:
   - TCP/IP without own development

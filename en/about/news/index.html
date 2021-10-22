@@ -9,7 +9,10 @@ title: News
     Here you find all previous press releases from metraTec in a single spot...<br /><br />
 </p>
 
-{% for item in site.pages %}
+{% assign sorted = site.pages | sort: 'rank' | reverse %}
+
+
+{% for item in sorted %}
 {% assign item_crumbs = item.url | remove_first: page.dir | split: '/' %}
 
 {% if item_crumbs.size == 1 and item.name == 'index.html' %}

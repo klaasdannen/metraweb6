@@ -4,6 +4,7 @@ title: "TCP/IP to UART Converter (TUC)"
 rank: 20
 section: "IoT"
 group: "TCP to UART"
+description: ""
 featuredImage: tuc.jpg
 bulletPoints:
   - TCP/IP without own development

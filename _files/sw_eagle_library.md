@@ -1,5 +1,4 @@
 ---
-type: "file"
 size: "10kB"
 category: "software"
 version: "2.0"

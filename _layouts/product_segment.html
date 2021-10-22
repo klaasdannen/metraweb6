@@ -14,7 +14,10 @@ layout: page
 <p>
     <div class="row no-gutters">
         <div class="col-2">
+            {% if item.featuredImage %}
             <img src="{{ item.url | relative_url }}/{{item.featuredImage}}" class="img-fluid" style="max-width:200px; max-height:200px" alt="{{item.title}}">
+            {% endif %}
+
         </div>
         <div class="col">
             <div class="card-block px-0">

@@ -3,7 +3,7 @@ layout: product_group
 title: "IPS Starter Kits"
 rank: 5
 description: "Try out our indoor positioning system with our Starter Kits"
-featuredImage: starterkit.jpg
+featuredImage: 
 
 ---
 # IPS Starter Kit

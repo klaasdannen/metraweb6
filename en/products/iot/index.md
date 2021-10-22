@@ -3,7 +3,7 @@ layout: product_segment
 title: "Internet of Things"
 section: "IoT"
 ---
-# Industrial IoT
+# Industrial IoT (Internet of Things)
 ***
 
 In addition to identification and localization, metraTec has also been offering components and solutions for the industrial "Internet of Things" for several years. These are components that allow you to easily connect your own products to a local server or the cloud and thus make your entry into the Internet of Things without much development effort.
