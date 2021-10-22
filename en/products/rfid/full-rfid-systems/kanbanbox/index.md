@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "RFID Kanban Box"
-rank: "50"
+rank: 50
 section: "RFID"
 group: "Full Systems"
 type: "product"
+description: "Optimize your intra-logistics with this smart Kanban solution."
 featuredImage: kanban.jpg
 bulletPoints:
   - e-Kanban 

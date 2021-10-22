@@ -1,10 +1,10 @@
 ---
-path: "/"
+layout: product_page
 title: "Lambda40 HF Loop Antenna"
-rank: "50"
+rank: 100
 section: "RFID"
 group: "RFID Antennas"
-type: "product"
+description: "HF loop antenna in an industrial housing for the most demanding applications and high read ranges."
 featuredImage: lambda40.jpg
 bulletPoints:
   - IP65 Housing

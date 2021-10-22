@@ -1,11 +1,12 @@
 ---
 layout: product_page
 title: "HF and UHF 3D tunnel"
-rank: "20"
+rank: 20
 section: "RFID"
 group: "Full Systems"
 type: "product"
-featuredImage: []
+description: "For situations with mixed technologies (HF + UHF RFID), eg. in Laundry systems, this tunnel can read it all."
+featuredImage: tunnel.jpg
 bulletPoints:
   - Read HF and UHF tags simultaneously
   - Read HF and UHF tags in any orientation

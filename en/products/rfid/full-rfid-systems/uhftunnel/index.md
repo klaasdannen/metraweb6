@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "UTx UHF RFID-Tunnel"
-rank: "30"
+rank: 30
 section: "RFID"
 group: "Full Systems"
 type: "product"
+description: "To scan UHF tags inside boxes and other containers manually or on a conveyor belt with this UHF tunnel."
 featuredImage: uhftunnel.jpg
 bulletPoints:
   - Read tags in all polarizations

@@ -1,10 +1,9 @@
 ---
-path: "/"
+layout: product_page
 title: "TUC Evaluation Board"
-rank: "10"
+rank: 10
 section: "IoT"
 group: "TCP to UART"
-type: "product"
 featuredImage: evaboard.jpg
 bulletPoints:
   - TCP/IP without own development

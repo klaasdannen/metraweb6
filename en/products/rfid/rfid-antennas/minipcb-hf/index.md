@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "MiniPCB HF Antenna"
-rank: "80"
+rank: 60
 section: "RFID"
 group: "RFID Antennas"
 type: "product"
+description: "A small and cheap HF RFID antenna for simple applications."
 featuredImage: minipcb.jpg
 bulletPoints:
   - Flat Design

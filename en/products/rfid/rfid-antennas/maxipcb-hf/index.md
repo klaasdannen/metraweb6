@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "MaxiPCB HF Antenna"
-rank: "60"
+rank: 80
 section: "RFID"
 group: "RFID Antennas"
 type: "product"
+description: "A large HF loop antenna for read ranges of up to 400mm"
 featuredImage: maxipcb.jpg
 bulletPoints:
   - Flat Design

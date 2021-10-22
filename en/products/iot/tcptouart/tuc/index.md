@@ -1,10 +1,9 @@
 ---
-path: "/"
+layout: product_page
 title: "TCP/IP to UART Converter (TUC)"
-rank: "20"
+rank: 20
 section: "IoT"
 group: "TCP to UART"
-type: "product"
 featuredImage: tuc.jpg
 bulletPoints:
   - TCP/IP without own development

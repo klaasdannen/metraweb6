@@ -1,11 +1,12 @@
 ---
 layout: product_page
 title: "T50 HF 3D-Tunnel"
-rank: "10"
+rank: 10
 section: "RFID"
 group: "Full Systems"
 type: "product"
-featuredImage: []
+description: "Read up to 50 HF RFID tags in any orientation with this product."
+featuredImage: tunnel.jpg
 bulletPoints:
   - Read HF Tags in any polarization
   - Flexible Dimensions

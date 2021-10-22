@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "MidiPCB HF Antenna"
-rank: "70"
+rank: 70
 section: "RFID"
 group: "RFID Antennas"
 type: "product"
+description: "Medium sized HF loop antenna for read range of up to 250mm." 
 featuredImage: midipcb.jpg
 bulletPoints:
   - Flat Design

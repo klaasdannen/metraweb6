@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "UHF RFID-Gate"
-rank: "40"
+rank: 40
 section: "RFID"
 group: "Full Systems"
 type: "product"
+description: "Scan up to 800 UHF tags in one go with this high-performance RFID gate."
 featuredImage: uhfgate.jpg
 bulletPoints:
   - Reads Tags in any polarization

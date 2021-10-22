@@ -1,10 +1,11 @@
 ---
 layout: product_page
 title: "UHF Field Analyzer Kit"
-rank: "60"
+rank: 60
 section: "RFID"
 group: "Full Systems"
 type: "product"
+description: "Measure and compare UHF field strenths with this simple and inexpensive probe - perfect for debugging UHF RFID scenarios."
 featuredImage: analyzer.jpg
 bulletPoints:
   - Measure UHF Field Strength 
