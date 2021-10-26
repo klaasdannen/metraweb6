@@ -1,8 +1,9 @@
 ---
-filename_de: metraTerm Tool
-filename_en: metraTerm Tool
+filename_de: metraTerm
+filename_en: metraTerm
 filetype: ZIP
-size: 20 MB
-link: "software/test.zip"
+size: 28.6 MB
+version: 1.7.5.win
+link: "software/metraTerm_r1-7-5-win.zip"
 type: software
 ---

@@ -4,13 +4,15 @@ title: "hyperMux-4 UHF Multiplexer"
 rank: 40
 section: "RFID"
 group: "Multiplexer"
-type: "product"
 description: "Connect up to four antennas to a single UHF reader port"
 featuredImage: hypermux4.jpg
 bulletPoints:
   - Short Switching Time
   - Robust Housing
   - Low System Costs
+linked_files:
+  - Ds_hypermux4
+  - Doc_hypermux
 ---
 Beside our multiplexers of the HF series there is the hyperMux-4 for the UHF frequency range (868/915 MHz). The device uses 24V optically isolated IOs which are used by most PLCs as well as many UHF readers to control digital inputs and outputs. This makes the integration of the multiplexer into industrial applications even easier. To give the user enough feedback during installation of the product it has four LEDs to indicate the antenna port currently active. The multiplexer is available in a wall-mountable aluminium housing with an optional DIN-rail mount.
 

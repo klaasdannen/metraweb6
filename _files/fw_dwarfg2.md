@@ -1,9 +1,9 @@
 ---
-filename_de: DwarfG2 Firmware
-filename_en: DwarfG2 Firmware
+filename_de: Firmware DWARFG2
+filename_en: Firmware DWARFG2
 filetype: ZIP
-size: 145 kB
-link: /assets/files/firmware/DWARFG2_0315_on_DWARFG2_0101.zip
+size: 88.3 kB
+version: 03.18
+link: "firmware/DWARFG2_0318_on_DWARFG2_0101.zip"
 type: firmware
 ---
-

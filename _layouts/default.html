@@ -1,23 +1,24 @@
 <!DOCTYPE html>
 <html lang="{{page.lang}}">
 {% include head.html %}
-    
+
 <body>
 
-    {% include topbar.html %}
+  {% include topbar.html %}
 
-    {% include menubar.html %}
+  {% include menubar.html %}
 
-    {{ content }}
+  {{ content }}
 
-    {% if page.lang=="de"%}
-      {% include footer_de.html %}
-    {% else %}
-      {% include footer_en.html %}
-    {% endif %}
+  {% if page.lang=="de"%}
+  {% include footer_de.html %}
+  {% else %}
+  {% include footer_en.html %}
+  {% endif %}
 
 
-    <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+      class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
   <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -27,11 +28,17 @@
   <script src="/assets/vendor/purecounter/purecounter.js"></script>
   <script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
 
+
   <!-- Template Main JS File -->
   <script src="/assets/js/main.js"></script>
 
+  {% if page.lang=="de"%}
+    {% include cookie_consent_de.html %}
+  {% else %}
+    {% include cookie_consent_en.html %}
+  {% endif %}
+
 
 </body>
-   
 
 </html>

@@ -1,0 +1,57 @@
+<link rel="stylesheet" type="text/css" href="{{ 'assets/css/cookieconsent.css' | absolute_url  }}" />
+
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js"></script>
+
+<script>
+    function loadGAonConsent() {
+        window.ga = window.ga || function () {
+            (ga.q = ga.q || []).push(arguments)
+        };
+        ga.l = +new Date;
+        ga('create', 'UA-000000000-0', 'auto');
+        ga('set', 'anonymizeIp', true);
+        ga('send', 'pageview');
+        var gascript = document.createElement("script");
+        gascript.async = true;
+        gascript.src = "https://www.google-analytics.com/analytics.js";
+        document.getElementsByTagName("head")[0].appendChild(gascript, document.getElementsByTagName("head")[0]);
+    }
+
+    if (document.cookie.split(';').filter(function (item) {
+            return item.indexOf('cookieconsent_status=allow') >= 0
+        }).length) {
+        loadGAonConsent();
+    }
+
+
+    window.addEventListener("load", function () {
+
+        window.cookieconsent.initialise({
+            "palette": {
+                "popup": {
+                    "background": "#313451"
+                },
+                "button": {
+                    "background": "#4a4f79"
+                }
+            },
+            "theme": "classic",
+            "type": "opt-in",
+            "content": {
+                "message": "metraTec uses Cookies and Google Analytics to better understand the behaviour of our website visitors. Is that okay for you? (You can revoke this consent later)",
+                "deny": "Deny",
+                "allow": "OK!",
+                "link": "Privacy Notes",
+                "href": "www.metratec.com/datenschutz.html"
+            },
+            onStatusChange: function (status, chosenBefore) {
+                var type = this.options.type;
+                var didConsent = this.hasConsented();
+                if (type == 'opt-in' && didConsent) {
+                    // enable cookies
+                    loadGAonConsent();
+                }
+            }
+        })
+    });
+</script>
