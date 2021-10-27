@@ -10,6 +10,9 @@ featuredImage: maxipcb.jpg
 bulletPoints:
   - Flat Design
   - read range up to 400 mm
+linked_files:
+  - Ds_pcbantennas
+  - Doc_antennaintegrationguide
 ---
 The metraTec PCB Antenna Family includes a range of printed circuit board antennas for 13.56 MHz (HF RFID). With the three standard versions MaxiPCB (250 x 250 mm) you can realize a variety of applications. With the right reader - eg. metraTec‘s QuasarMX - and tag, you can expect a read range of up to resp. 400 mm, which covers most scenarios.
 

@@ -11,6 +11,8 @@ bulletPoints:
   - Locally limited UHF field 
   - Inductive Coupling
   - Compact Housing
+linked_files:
+  - Ds_echon
 ---
 The Echo-N is a true UHF RFID nearfield antenna for the European frequency range at 868 MHz. The antenna has no real farfield which minimizes false reads due to unplanned reflections. Even when operating several systems in the vicinity of each other disturbances are minimal.
 

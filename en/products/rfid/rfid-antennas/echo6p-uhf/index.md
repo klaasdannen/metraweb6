@@ -11,6 +11,8 @@ bulletPoints:
   - 6.5 dBic Antenna 
   - Compact Housing 
   - VESA Mount
+linked_files:
+  - Ds_echo6p
 ---
 The Echo-6P is a compact circular UHF RFID antenna for the European frequency range at 868 MHz. With an antenna gain of 6.5 dBic and an opening angle of approx. 84° you can operate this antenna with up to 33 dBm ERP. This will give you a read range of up to 6 m with normal UHF transponders.
 
