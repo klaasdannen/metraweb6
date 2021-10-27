@@ -213,3 +213,6 @@ for path in pathlist:
 # TODO
 # Use FM parser to update existing files
 # https://pypi.org/project/python-frontmatter/
+
+# Remove leading zeros in version
+# remove characters from version

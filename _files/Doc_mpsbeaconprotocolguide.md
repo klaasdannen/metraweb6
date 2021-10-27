@@ -1,6 +1,6 @@
 ---
-filename_de: Anleitung MPS-Beacon-Protocol-Guide
-filename_en: Documentation MPS-Beacon-Protocol-Guide
+filename_de: MPS Beacon Protokoll Guide
+filename_en: MPS Beacon Protocol Guide
 filetype: PDF
 size: 175.4 kB
 version: 1.0

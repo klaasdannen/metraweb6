@@ -1,6 +1,6 @@
 ---
-filename_de: metraTecDevices
-filename_en: metraTecDevices
+filename_de: metraTec Devices .NET DLL
+filename_en: metraTecD evices .NET DLL
 filetype: ZIP
 size: 1.6 MB
 version: 2.3.0

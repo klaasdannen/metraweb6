@@ -8,6 +8,15 @@ bulletPoints:
   - Small Footprint
   - ISO 14443A compatible
   - Reads and writes NFC type 2 tags
+linked_files:
+  - Ds_dwarf14
+  - Doc_dwarf14
+  - Fw_dwarf14
+  - Sw_firmwareupdatetool
+  - Sw_eaglelibrary
+  - Sw_metraterm
+  - Doc_mifareprotocolguide
+
 ---
 If you want to integrate RFID technology into existing devices to check consumables, find countfeited spare parts in a machine or to identify users, you sometimes do not have the space on your PCB for a complete reader. Often you only have few square inches of available space to place all the RFID functionality you need. For these cases, the Dwarf14 HF RFID Module is just the right product. It uses MIFARE® Classic and MIFARE Ultralight® protocols.
 

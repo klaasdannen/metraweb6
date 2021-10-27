@@ -1,6 +1,6 @@
 ---
-filename_de: ReaderControl2
-filename_en: ReaderControl2
+filename_de: Reader Control 2 Demo Software für HF Reader
+filename_en: Reader Control 2 Demo Software for HF Readers
 filetype: ZIP
 size: 242.4 kB
 version: 2.6.1

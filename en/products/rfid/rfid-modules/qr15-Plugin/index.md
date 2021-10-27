@@ -9,6 +9,14 @@ bulletPoints:
   - Easy Integration
   - ISO 15693 compatible
   - Reads and writes NFC type 5 tags
+linked_files:
+  - Ds_qr15v2
+  - Doc_qr15v2
+  - Fw_qr15_v2
+  - Sw_firmwareupdatetool
+  - Sw_eaglelibrary
+  - Sw_metraterm
+  - Doc_isoprotocolguidev2
 ---
 The QR15 is an RFID reader module for all applications where RFID tags that work according to ISO15693 (like ICode, Tag-It and many more) have to be scanned with a small and cost effective module. With the integrated antenna a read range of up to 70 mm is possible.
 

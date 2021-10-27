@@ -1,6 +1,6 @@
 ---
 filename_de: Datenblatt PCB-Antennen
-filename_en: Datasheet PCB-Antennen
+filename_en: GERMAN ONLY
 filetype: PDF
 size: 646.4 kB
 version: 2.2

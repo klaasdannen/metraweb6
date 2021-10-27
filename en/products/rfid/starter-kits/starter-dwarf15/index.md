@@ -13,6 +13,15 @@ bulletPoints:
   - Everything included
   - ISO 15693 compatible
   - Reads and writes NFC type 5 tags
+linked_files:
+  - Ds_rfidstarterkits
+  - Ds_dwarf15v2
+  - Doc_dwarf15v2
+  - Fw_dwarf15v2
+  - Sw_firmwareupdatetool
+  - Sw_eaglelibrary
+  - Sw_metraterm
+  - Doc_isoprotocolguidev2
 ---
 RFID technology offers OEM manufacturers a variety of useful and innovative additional features for their products: Verification of consumables, automatic user identification, access control, certification of product authenticity and much more. These and many other applications can be realized easily with the RFID modules offered by metraTec. To give you an effortless start into this exciting new technology we offer a variety of Embedded Starter Kits - one for each module type.
 

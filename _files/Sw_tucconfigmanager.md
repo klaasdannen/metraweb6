@@ -1,6 +1,6 @@
 ---
-filename_de: TUCConfigManager
-filename_en: TUCConfigManager
+filename_de: TUC Config Manager
+filename_en: TUC Config Manager
 filetype: ZIP
 size: 63.1 MB
 version: 3.4.win

@@ -9,6 +9,14 @@ bulletPoints:
   - Easy integration
   - ISO 14443A compatible
   - Reads and writes NFC type 2 tags
+linked_files:
+  - Ds_qr14
+  - Doc_qr14
+  - Fw_qr14
+  - Sw_firmwareupdatetool
+  - Sw_eaglelibrary
+  - Sw_metraterm
+  - Doc_mifareprotocolguide
 ---
 Some RFID applications place higher demands on data security, e.g. applications in the field of e-payment or ticketing. Here, transponders according to ISO14443A or MIFARE® technology are often used. The QR14 plug-in module is suitable for all these applications where transponders need to be read or written in a space-saving and cost-effective manner. The module supports the protocols MIFARE Classic and MIFARE Ultralight®. Furthermore, the QR14 plug-in module can also be used to read and write NFC chips of NFC type 2.
 

@@ -10,10 +10,13 @@ bulletPoints:
   - ISO 15693 compatible
   - Reads and writes NFC type 5 tags
 linked_files:
- - Ds_dwarf15
- - Sw_metraterm
- - Doc_hfprotocol
- - Fw_dwarf15
+  - Ds_dwarf15v2
+  - Doc_dwarf15v2
+  - Fw_dwarf15v2
+  - Sw_firmwareupdatetool
+  - Sw_eaglelibrary
+  - Sw_metraterm
+  - Doc_isoprotocolguidev2
 ---
 If you want to integrate RFID technology into existing devices to check consumables, find countfeited spare parts in a machine or to identify users, you sometimes don't have the space on your PCB for a complete reader. Often you only have few square inch of available space to place all the RFID functionality you need. For these cases, the Dwarf15 RFID Module is just the right product.
 

@@ -11,8 +11,13 @@ bulletPoints:
   - No Heat Development
   - Great Value
 linked_files:
- - Ds_dwarfg2mini
- - Doc_dwarfg2mini
+  - Ds_dwarfg2mini
+  - Doc_dwarfg2mini
+  - Fw_dwarfg2_mini
+  - Sw_firmwareupdatetool
+  - Sw_eaglelibrary
+  - Sw_metraterm
+  - Doc_uhfprotocolguide
 ---
 UHF RFID at 868/915 MHz is more and more replacing the classic HF RFID technology at 13,56 MHz due to a high potential read range and cheaper RFID transponders. Until now, the bigger size and higher cost of UHF RFID modules had been a problem for many embedded projects. With the DwarfG2-Mini UHF Module this is finally a thing of the past. With only 28x21 mm in size you can integrate the module into any product. At the same time, you get the advantage of low cost for the reader combined with low transponder prices.
 

@@ -1,6 +1,6 @@
 ---
-filename_de: Datenblatt UHF-FAK
-filename_en: Datasheet UHF-FAK
+filename_de: Datenblatt UHF Feld Analysator
+filename_en: Datasheet UHF Field Analyzer
 filetype: PDF
 size: 581.6 kB
 version: 1.1

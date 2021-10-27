@@ -1,6 +1,6 @@
 ---
-filename_de: ReaderControlMF
-filename_en: ReaderControlMF
+filename_de: Reader Control MF Demo Tool
+filename_en: Reader Control MF Demo Tool
 filetype: ZIP
 size: 14.3 kB
 version: 1.3

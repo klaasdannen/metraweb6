@@ -7,6 +7,13 @@ bulletPoints:
   - Fast Read/Write Operation
   - up to 2 m Read Range
   - Compact Design
+linked_files:
+  - Ds_dwarfg2xr
+  - Fw_dwarfg2_xr
+  - Sw_firmwareupdatetool
+  - Sw_eaglelibrary
+  - Sw_metraterm
+  - Doc_uhfprotocolguide
 ---
 UHF RFID at 868/915 MHz is more and more replacing the classic HF RFID technology at 13.56 MHz due to a high potential read range and cheaper RFID transponders. This trends leadas to the fact that more and more developers have to work with UHF electronics, which is not an easy topic if you haven't studied communication technology. A very simple way to integrate UHF RFID into your device without risk and shortest time-to-market is to use metraTec's DwarfG2 XR UHF SMD module.
 

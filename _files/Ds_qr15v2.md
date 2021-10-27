@@ -1,6 +1,6 @@
 ---
-filename_de: Datenblatt QR15V2
-filename_en: Datasheet QR15V2
+filename_de: Datenblatt QR15 v2
+filename_en: Datasheet QR15 v2
 filetype: PDF
 size: 2.3 MB
 version: 1.1

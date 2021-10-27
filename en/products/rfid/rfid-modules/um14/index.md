@@ -8,6 +8,15 @@ bulletPoints:
   - Integrated Antenna
   - ISO 14443A compatible
   - Reads and writes NFC type 2 tags
+linked_files:
+  - Ds_um14
+  - Fw_deskid_mifare
+  - Sw_firmwareupdatetool
+  - Sw_metraterm
+  - Doc_mifareprotocolguide
+  - Sw_readercontrolmf
+  - Sw_javasdk
+  - Sw_metratecdevices
 ---
 You are looking for a complete RFID module using MIFARE® technology with internal antenna to integrate into your own device? You have a USB interface on your host system? The UM14 RFID module is the perfect product for you.
 
