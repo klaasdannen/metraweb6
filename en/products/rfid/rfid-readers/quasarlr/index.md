@@ -10,6 +10,17 @@ bulletPoints:
   - Long Range
   - Ethernet Interface
   - 24V IOs
+linked_files:
+  - Ds_quasarlr
+  - Doc_quasarlr
+  - Fw_quasarlr
+  - Sw_firmwareupdatetool
+  - Sw_javasdk
+  - Sw_metratecdevices
+  - Sw_metraterm
+  - Doc_antennaintegrationguide
+  - Sw_readercontrol2
+  - Doc_quasarlrprotocolguide
 ---
 The QuasarLR is an HF long range RFID reader/writer for demanding industrial applications, where high reading reliability, high read ranges and extensive special tag features are needed.
 

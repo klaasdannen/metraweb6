@@ -10,6 +10,16 @@ bulletPoints:
   - Best Cost/Performance 
   - Compact Housing 
   - 24V IOs
+linked_files:
+  - Ds_pulsarmx
+  - Doc_pulsarmx
+  - Fw_pulsarmx
+  - Sw_firmwareupdatetool
+  - Sw_javasdk
+  - Sw_uhfdevices
+  - Sw_metraterm
+  - Sw_readercontroluhf
+  - Doc_uhfprotocolguide
 ---
 The PulsarMX is a UHF Mid Range Reader for applications with a medium read range between 2 and 5 m and up to 101 transponders simultaneously in the field. Its main applications are in container tracking, reading data from sensor tags (e.g. temperature sensors) as well as on a conveyor belt. Due to its low cost the device opens new possibilities for applications which where not feasible before.
 

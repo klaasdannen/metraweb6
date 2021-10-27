@@ -9,6 +9,16 @@ featuredImage: deskid-uhf.jpg
 bulletPoints:
   - Design Housing
   - Power over USB
+linked_files:
+  - Ds_deskiduhf
+  - Doc_deskiduhf
+  - Fw_deskiduhf
+  - Sw_firmwareupdatetool
+  - Sw_javasdk
+  - Sw_uhfdevices
+  - Sw_metraterm
+  - Sw_readercontroluhf
+  - Doc_uhfprotocolguide
 ---
 The DeskID UHF is a compact and well-priced RFID reader/writer working at 868 MHz (UHF RFID, EU). Its main use is to read and write data to EPC Gen 2 transponders directly from your PC or laptop. Thus, the device is a handy tool for all UHF applications for testing tags, writing an EPC or just debug your UHF gate.
 

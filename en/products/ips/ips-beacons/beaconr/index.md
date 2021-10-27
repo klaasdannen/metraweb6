@@ -9,6 +9,9 @@ featuredImage: beaconr.jpg
 bulletPoints:
   - up to 5 years battery life
   - for mobile use
+linked_files:
+  - Ds_ipsbeaconr
+  - Doc_mpsbeaconprotocolguide
 ---
 The Indoor Positioning System (IPS) by metraTec is characterized on the technical side by its enormous power saving mode. Thanks to the use of state-of-the-art radio chips in combination with a completely rewritten firmware, a Beacon with a button cell can be operated for up to 5 years depending on the settings.
 The IPS beacons are active transponders that send out their IDs in an adjustable interval. These signals are recognized by the appropriate IPS receivers and forwarded to our RTLS middleware "IoT-Engine". The reception range is between a few meters and 100m depending on the type of device.

@@ -11,6 +11,9 @@ bulletPoints:
   - Short Switching Time
   - SPS-ready 24V Inputs
   - Low System Costs
+linked_files:
+  - Ds_hfmux16
+  - Doc_hfmuxx
 ---
 The hfMux-16 is a 16x RFID multiplexer for HF systems with 13.56 MHz operating frequency. It enables the operation of up to 16 antennas on a single RFID reader. This makes it possible to set up complex reading devices with low hardware costs and little effort, as only a single reader has to be purchased and controlled.
 

@@ -1,15 +1,24 @@
 ---
 layout: product_page
 title: "BraceID RFID Bracelet"
-rank: "70"
+rank: 70
+inactive: true
 section: "RFID"
 group: "RFID Readers"
-type: "product_deact"
 featuredImage: braceid.png
 bulletPoints:
   - Light RFID Scanner
   - Hands free operation
   - Exchangeable battery
+linked_files:
+  - Ds_braceid
+  - Doc_bracaeid
+  - Fw_braceid
+  - Sw_firmwareupdatetool
+  - Sw_javasdk
+  - Sw_uhfdevices
+  - Sw_metraterm
+  - Doc_uhfprotocolguide
 ---
 With the progressive use of UHF RFID in logistics, transponders must be scanned at more and more points in the process. The use of a classic hand-held scanner is not always optimal here. The devices are often bulky and require the employee to have one hand free for operation.
 

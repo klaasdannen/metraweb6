@@ -11,6 +11,17 @@ bulletPoints:
   - Power over USB
   - ISO 14443A compatible
   - Reads and writes NFC type 2 tags
+linked_files:
+  - Ds_deskidmf
+  - Doc_deskidmf
+  - Fw_deskidmf
+  - Sw_firmwareupdatetool
+  - Sw_javasdk
+  - Sw_metratecdevices
+  - Sw_metraterm
+  - Doc_antennaintegrationguide
+  - Sw_readercontrolmf
+  - Doc_mifareprotocolguide
 ---
 The DeskID MF is an especially compact HF RFID reader and writer for office RFID applications. Typical scenarios for using the DeskID MF are customer management applications (e.g. in the gym), configuring of door access systems or customer cards based on the common protocols MIFARE Classic®, MIFARE Ultralight®.
 

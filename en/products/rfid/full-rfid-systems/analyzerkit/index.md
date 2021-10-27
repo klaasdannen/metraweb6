@@ -11,6 +11,8 @@ bulletPoints:
   - Measure UHF Field Strength 
   - Threshhold LEDs
   - incl. Software
+linked_files:
+  - Ds_uhffak
 ---
 The metraTec UHF Field Analyzer measures the field strength present in the 868 MHz band which is emitted by UHF RFID readers. Two LEDs show whether certain thresholds in field strength are exceeded. This values can be configured freely, e.g. to correspond to the tags used in your application.
 

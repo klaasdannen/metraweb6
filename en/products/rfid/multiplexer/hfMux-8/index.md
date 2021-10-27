@@ -11,6 +11,9 @@ bulletPoints:
   - Short Switching Time
   - SPS-ready 24V Inputs
   - Low System Costs
+linked_files:
+  - Ds_hfmux8
+  - Doc_hfmuxx
 ---
 The hfMux-8 is our 8 port RFID multiplexer for HF systems with an operating frequency of 13.56 MHz and a maximum power of 2 W (in the -MP version) or 4 W (in the -HP version). It allows connecting up to eight antennas to a single RFID reader. This reduces system complexity and setup costs in cases where many antennas are needed and also lowers hardware system costs as the number of readers needed decreases dramatically. The housing is suited for wall mounting and status LEDs show which antenna port is currently active. The device is powered using a standard 24V DC power supply.
 

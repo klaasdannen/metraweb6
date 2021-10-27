@@ -11,6 +11,8 @@ bulletPoints:
   - Read tags in all polarizations
   - Read up to 400 tags/scan 
   - No problems with metal
+linked_files:
+  - Ds_uhftunnel
 ---
 One of the most promising applications of RFID technology is the optimization of supply chains in logistics.
 Goods equipped with UHF transponders can be recorded automatically, so that the correct stock is always stored in the company database.

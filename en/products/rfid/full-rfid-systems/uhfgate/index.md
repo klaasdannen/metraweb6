@@ -11,6 +11,8 @@ bulletPoints:
   - Reads Tags in any polarization
   - Metal is no problem 
   - High read rates
+linked_files:
+  - Ds_uhfgate
 ---
 The UHF Person Gate consists of a mechanical gate made from aluminum into which all necessary RFID hardware has been integrated. Using the special form of the sides, the RF field is always reflected to the inside of the gate which ensures optimal field distribution and as a consequence optimal reading results even in "difficult" applications that include metal or liquids.
 
