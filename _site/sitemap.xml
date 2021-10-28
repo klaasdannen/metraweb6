@@ -1,2219 +1,5128 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>/text-formatting-examples.html</loc>
-<lastmod>2014-01-01T00:00:00+01:00</lastmod>
-</url>
-<url>
-<loc>/getting-started.html</loc>
-<lastmod>2017-01-01T00:00:00+01:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/antenna.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/antenna.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/antenna.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/minipcb-hf/antenna.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/maxipcb-hf/antenna.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/midipcb-hf/antenna.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/antenna.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmr1/antenna.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/lambda40-hf/antenna.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/antenna.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/antenna.html</loc>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/evaboard/configmanager.html</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/evaboard/configmanager.html</loc>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/tuc/configmanager.html</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/tuc/configmanager.html</loc>
-</url>
-<url>
-<loc>/en/contact.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um14/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beaconr/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr14/datasheet.html</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-beacons/beacons/datasheet.html</loc>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/tuc/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr15/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-mf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-receiver/ipsreceiver/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-uhf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/uhftunnel/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/pulsarmx/datasheet.html</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-beacons/beaconl/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/evaboard/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/uhfgate/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hyperMux-16/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beacons/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beaconb/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hyperMux-4/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/braceid/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/umg2-uhf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um15-hf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/analyzerkit/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hfMux-4/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf14/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beaconl/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf15/datasheet.html</loc>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/evaboard/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmr1/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echo5p-uhf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hfMux-16/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/midipcb-hf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echo6p-uhf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echoN-uhf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echo8p-uhf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/minipcb-hf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hfMux-8/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/maxipcb-hf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/tuc/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/lambda40-hf/datasheet.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/docu.html</loc>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/tuc/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-uhf/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hfMux-4/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr14/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hyperMux-4/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr15/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/braceid/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hfMux-16/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmr1/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf14/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf15/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/tuc/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/pulsarmx/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/evaboard/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echo8p-uhf/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hyperMux-16/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echo5p-uhf/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/analyzerkit/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hfMux-8/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um14/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-receiver/ipsreceiver/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hyperMux-8/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/docu.html</loc>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/evaboard/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um15-hf/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/docu.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/braceid/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-iso/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr15/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/umg2-uhf/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-uhf/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr14/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/tuc/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/pulsarmx/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um15-hf/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/firmware.html</loc>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/tuc/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um14/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf15/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf14/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-mf/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-uhf/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/firmware.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-mf/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-uhf/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-iso/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/braceid/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmr1/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/analyzerkit/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um15-hf/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/umg2-uhf/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um14/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/pulsarmx/firmwareupdate.html</loc>
-</url>
-<url>
-<loc>/en/impress.html</loc>
-</url>
-<url>
-<loc>/de/impressum.html</loc>
-</url>
-<url>
-<loc>/en/products/</loc>
-</url>
-<url>
-<loc>/de/ueber-uns/privacy/</loc>
-</url>
-<url>
-<loc>/de/ueber-uns/team/</loc>
-</url>
-<url>
-<loc>/de/mehr/fue-projekte/avatar/</loc>
-</url>
-<url>
-<loc>/en/about/company/</loc>
-</url>
-<url>
-<loc>/en/about/</loc>
-</url>
-<url>
-<loc>/en/more/open-source/</loc>
-</url>
-<url>
-<loc>/en/more/sales-partner/</loc>
-</url>
-<url>
-<loc>/en/more/research-projects/digistable/</loc>
-</url>
-<url>
-<loc>/en/more/research-projects/kids-ct/</loc>
-</url>
-<url>
-<loc>/en/more/research-projects/Fingerzeig/</loc>
-</url>
-<url>
-<loc>/en/more/research-projects/lapar/</loc>
-</url>
-<url>
-<loc>/de/mehr/fue-projekte/digistable/</loc>
-</url>
-<url>
-<loc>/en/more/research-projects/avatar/</loc>
-</url>
-<url>
-<loc>/en/more/research-projects/fast-athletics/</loc>
-</url>
-<url>
-<loc>/en/more/research-projects/fast-secure/</loc>
-</url>
-<url>
-<loc>/en/</loc>
-</url>
-<url>
-<loc>/en/more/research-projects/</loc>
-</url>
-<url>
-<loc>/en/more/</loc>
-</url>
-<url>
-<loc>/de/ueber-uns/news/</loc>
-</url>
-<url>
-<loc>/de/mehr/fue-projekte/lapar/</loc>
-</url>
-<url>
-<loc>/</loc>
-</url>
-<url>
-<loc>/de/ueber-uns/news/2020-08-05/</loc>
-</url>
-<url>
-<loc>/de/</loc>
-</url>
-<url>
-<loc>/en/support/faq/</loc>
-</url>
-<url>
-<loc>/de/support/</loc>
-</url>
-<url>
-<loc>/de/support/downloads/</loc>
-</url>
-<url>
-<loc>/de/mehr/fue-projekte/Fingerzeig/</loc>
-</url>
-<url>
-<loc>/de/ueber-uns/news/2020-01-13/</loc>
-</url>
-<url>
-<loc>/de/ueber-uns/</loc>
-</url>
-<url>
-<loc>/de/support/faq/</loc>
-</url>
-<url>
-<loc>/de/ueber-uns/company/</loc>
-</url>
-<url>
-<loc>/de/loesungen/</loc>
-</url>
-<url>
-<loc>/de/ueber-uns/jobs/</loc>
-</url>
-<url>
-<loc>/en/support/downloads/</loc>
-</url>
-<url>
-<loc>/de/mehr/</loc>
-</url>
-<url>
-<loc>/de/mehr/vertriebspartner/</loc>
-</url>
-<url>
-<loc>/de/mehr/fue-projekte/</loc>
-</url>
-<url>
-<loc>/de/mehr/fue-projekte/kids-ct/</loc>
-</url>
-<url>
-<loc>/en/support/</loc>
-</url>
-<url>
-<loc>/de/produkte/</loc>
-</url>
-<url>
-<loc>/de/mehr/fue-projekte/fast-secure/</loc>
-</url>
-<url>
-<loc>/de/mehr/fue-projekte/fast-athletics/</loc>
-</url>
-<url>
-<loc>/en/about/news/2020-08-05/</loc>
-</url>
-<url>
-<loc>/en/about/news/2020-01-13/</loc>
-</url>
-<url>
-<loc>/en/about/privacy/</loc>
-</url>
-<url>
-<loc>/de/mehr/open-source/</loc>
-</url>
-<url>
-<loc>/en/solutions/</loc>
-</url>
-<url>
-<loc>/en/about/team/</loc>
-</url>
-<url>
-<loc>/en/about/news/</loc>
-</url>
-<url>
-<loc>/en/about/jobs/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-readers/deskid-mf/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beaconl/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beaconb/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beaconr/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beacons/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/iot-engine/userscriptplugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/iot-engine/ipsplugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/iot-engine/ips+plugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/iot-engine/basicframework/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/iot-engine/ouputextension/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/iot-engine/mapplugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/iot-engine/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-receiver/ips+receiver/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-receiver/ipsreceiver/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-receiver/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-starter-kits/starterkit/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-starter-kits/</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/evaboard/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/tuc/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/telematics/tmb3/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/telematics/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/iotengine/userscriptplugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/iotengine/ipsplugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/iotengine/rfidplugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/iotengine/ips+plugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/iotengine/basicframework/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/iotengine/ouputextension/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/iotengine/mapplugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/iotengine/</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/</loc>
-</url>
-<url>
-<loc>/de/produkte/oem-design/emcsupport/</loc>
-</url>
-<url>
-<loc>/de/produkte/oem-design/designservices/</loc>
-</url>
-<url>
-<loc>/de/produkte/oem-design/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hfMux-4/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hyperMux-8/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hyperMux-16/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hfMux-8/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hyperMux-4/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hfMux-16/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echo6p-uhf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echoN-uhf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/minipcb-hf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/maxipcb-hf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/lambda40-hf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echo8p-uhf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/midipcb-hf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echo5p-uhf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/hfuhftunnel/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/analyzerkit/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/uhfgate/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/hftunnel/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/kanbanbox/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/uhftunnel/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um15-hf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/umg2-uhf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um14/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/pulsarmx/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-mf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-uhf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-iso/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/braceid/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmr1/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf15/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf14/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr15/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr14/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-uhf/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-middleware/userscriptplugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-middleware/rfidplugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-middleware/basicframework/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-middleware/ouputextension/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-middleware/mapplugin/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-middleware/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/</loc>
-</url>
-<url>
-<loc>/de/mehr/fue-projekte/stimulate/</loc>
-</url>
-<url>
-<loc>/de/loesungen/identifikation/containertracking/</loc>
-</url>
-<url>
-<loc>/de/loesungen/identifikation/bulkidentifikation/</loc>
-</url>
-<url>
-<loc>/de/loesungen/identifikation/e-kanban/</loc>
-</url>
-<url>
-<loc>/de/loesungen/identifikation/caridentification/</loc>
-</url>
-<url>
-<loc>/de/loesungen/identifikation/</loc>
-</url>
-<url>
-<loc>/de/loesungen/lokalisierung/assettracking/</loc>
-</url>
-<url>
-<loc>/de/loesungen/lokalisierung/workflowmngt/</loc>
-</url>
-<url>
-<loc>/de/loesungen/lokalisierung/personnelsafety/</loc>
-</url>
-<url>
-<loc>/de/loesungen/lokalisierung/</loc>
-</url>
-<url>
-<loc>/de/loesungen/oem-design/customantennas/</loc>
-</url>
-<url>
-<loc>/de/loesungen/oem-design/rfidintegration/</loc>
-</url>
-<url>
-<loc>/de/loesungen/oem-design/electronicdesign/</loc>
-</url>
-<url>
-<loc>/de/loesungen/oem-design/</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-beacons/beaconl/</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-beacons/beaconb/</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-beacons/beaconr/</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-beacons/beacons/</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-beacons/</loc>
-</url>
-<url>
-<loc>/en/products/ips/iot-engine/userscriptplugin/</loc>
-</url>
-<url>
-<loc>/en/products/ips/iot-engine/ipsplugin/</loc>
-</url>
-<url>
-<loc>/en/products/ips/iot-engine/ips+plugin/</loc>
-</url>
-<url>
-<loc>/en/products/ips/iot-engine/basicframework/</loc>
-</url>
-<url>
-<loc>/en/products/ips/iot-engine/ouputextension/</loc>
-</url>
-<url>
-<loc>/en/products/ips/iot-engine/mapplugin/</loc>
-</url>
-<url>
-<loc>/en/products/ips/iot-engine/</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-receiver/ips+receiver/</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-receiver/ipsreceiver/</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-receiver/</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-starter-kits/ips-starter-kit/</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-starter-kits/ips+-starter-kit/</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-starter-kits/</loc>
-</url>
-<url>
-<loc>/en/products/ips/</loc>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/evaboard/</loc>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/tuc/</loc>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/</loc>
-</url>
-<url>
-<loc>/en/products/iot/telematics/tmb3/</loc>
-</url>
-<url>
-<loc>/en/products/iot/telematics/</loc>
-</url>
-<url>
-<loc>/en/products/iot/</loc>
-</url>
-<url>
-<loc>/en/products/oem-design/emcsupport/</loc>
-</url>
-<url>
-<loc>/en/products/oem-design/designservices/</loc>
-</url>
-<url>
-<loc>/en/products/oem-design/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/full-rfid-systems/hfuhftunnel/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/full-rfid-systems/analyzerkit/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/full-rfid-systems/uhfgate/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/full-rfid-systems/hftunnel/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/full-rfid-systems/kanbanbox/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/full-rfid-systems/uhftunnel/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/full-rfid-systems/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/multiplexer/hfMux-4/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/multiplexer/hyperMux-8/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/multiplexer/hyperMux-16/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/multiplexer/hfMux-8/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/multiplexer/hyperMux-4/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/multiplexer/hfMux-16/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/multiplexer/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-antennas/echo6p-uhf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-antennas/echoN-uhf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-antennas/minipcb-hf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-antennas/maxipcb-hf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-antennas/lambda40-hf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-antennas/midipcb-hf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-antennas/echo5p-uhf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-antennas/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-modules/qr14-Plugin/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-modules/dwarf14-hf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-modules/dwarfG2XR-uhf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-modules/dwarfG2mini-uhf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-modules/dwarf15-hf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-modules/qr15-Plugin/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-modules/umg2/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-modules/dwarfG2-uhf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-modules/um15/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-modules/um14/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-modules/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-readers/pulsarmx/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-readers/quasarmf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-readers/quasarmx/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-readers/deskid-uhf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-readers/deskid-iso/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-readers/braceid/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-readers/quasarlr/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-readers/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/starter-kits/starter-dwarfg2xr/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/starter-kits/starter-dwarf15/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/starter-kits/starter-dwarf14/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/starter-kits/starter-hfmidi/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/starter-kits/starter-hfmini/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/starter-kits/starter-dwarfg2/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/starter-kits/starter-qr15/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/starter-kits/starter-qr14/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/starter-kits/starter-dwarfg2mini/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/starter-kits/starter-uhf/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/starter-kits/starter-hfmaxi/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/starter-kits/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-middleware/userscriptplugin/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-middleware/rfidplugin/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-middleware/basicframework/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-middleware/ouputextension/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-middleware/mapplugin/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/rfid-middleware/</loc>
-</url>
-<url>
-<loc>/en/products/rfid/</loc>
-</url>
-<url>
-<loc>/en/solutions/identification/containertracking/</loc>
-</url>
-<url>
-<loc>/en/solutions/identification/bulkidentifikation/</loc>
-</url>
-<url>
-<loc>/en/solutions/identification/e-kanban/</loc>
-</url>
-<url>
-<loc>/en/solutions/identification/caridentification/</loc>
-</url>
-<url>
-<loc>/en/solutions/identification/</loc>
-</url>
-<url>
-<loc>/en/solutions/oem-design/customantennas/</loc>
-</url>
-<url>
-<loc>/en/solutions/oem-design/rfidintegration/</loc>
-</url>
-<url>
-<loc>/en/solutions/oem-design/electronicdesign/</loc>
-</url>
-<url>
-<loc>/en/solutions/oem-design/</loc>
-</url>
-<url>
-<loc>/en/solutions/localization/assettracking/</loc>
-</url>
-<url>
-<loc>/en/solutions/localization/workflowmngt/</loc>
-</url>
-<url>
-<loc>/en/solutions/localization/personnelsafety/</loc>
-</url>
-<url>
-<loc>/en/solutions/localization/</loc>
-</url>
-<url>
-<loc>/en/more/research-projects/stimulate/</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-iso/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um15-hf/integration.html</loc>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/tuc/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/pulsarmx/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmr1/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/tuc/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-uhf/integration.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/javaSDK.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-uhf/javaSDK.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um14/javaSDK.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/javaSDK.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/umg2-uhf/javaSDK.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/javaSDK.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/javaSDK.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/pulsarmx/javaSDK.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-iso/javaSDK.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um15-hf/javaSDK.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/javaSDK.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-mf/javaSDK.html</loc>
-</url>
-<url>
-<loc>/de/kontakt.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/tuc/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf15/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr15/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr14/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/library.html</loc>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/tuc/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf14/library.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmr1/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um14/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/pulsarmx/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/umg2-uhf/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-iso/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-mf/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-uhf/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um15-hf/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/metraterm.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr14/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/protocol.html</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-beacons/beacons/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmr1/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um15-hf/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf15/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf14/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-iso/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-uhf/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr15/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-uhf/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-mf/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/umg2-uhf/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beaconl/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/pulsarmx/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-receiver/ipsreceiver/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beacons/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um14/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beaconr/protocol.html</loc>
-</url>
-<url>
-<loc>/en/products/ips/ips-beacons/beaconl/protocol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beaconb/protocol.html</loc>
-</url>
-<url>
-<loc>/en/support/faq/q1.html</loc>
-</url>
-<url>
-<loc>/de/support/faq/q1.html</loc>
-</url>
-<url>
-<loc>/de/support/faq/q2.html</loc>
-</url>
-<url>
-<loc>/en/support/faq/q2.html</loc>
-</url>
-<url>
-<loc>/de/support/faq/q3.html</loc>
-</url>
-<url>
-<loc>/en/support/faq/q3.html</loc>
-</url>
-<url>
-<loc>/de/support/faq/q4.html</loc>
-</url>
-<url>
-<loc>/en/support/faq/q4.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr15/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-uhf/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/pulsarmx/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-iso/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmr1/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf14/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarf15/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-uhf/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-mf/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-qr14/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/umg2-uhf/readercontrol.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/analyzerkit/software.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um14/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-mf/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-uhf/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-iso/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/pulsarmx/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um15-hf/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/umg2-uhf/usbdriver.html</loc>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmr1/usbdriver.html</loc>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_BraceID_r1-0.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_DMI15_r1-0.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_DeskID-ISO_r1-1.pdf</loc>
-<lastmod>2021-10-23T16:34:18+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_DeskID-MF_r1-2.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_DeskID-UHF_r1-3.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_Dwarf14_r1-5.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_Dwarf15_r1-5.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_DwarfG2-Mini_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_DwarfG2-XR_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_DwarfG2_r1-2.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_Echo-5P_r2-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_Echo-6P_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_Echo-N_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_IPS-BeaconR_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_IPS-BeaconS_r1-3.pdf</loc>
-<lastmod>2021-10-25T17:09:52+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_IPS-Receiver_r1-2.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_PCB-Antennas_r2-2.pdf</loc>
-<lastmod>2021-10-25T17:09:52+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_PulsarMX_r1-3.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_QR14_r1-3.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_QR15V2_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_QuasarLR_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_QuasarMF_r1-3.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_QuasarMR1_r1-1%202.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_QuasarMR1_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_QuasarMX_r1-3%202.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_QuasarMX_r1-3%203.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_QuasarMX_r1-3.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_RFID-Starter-Kits_r1-2.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_TUC_r1-3.pdf</loc>
-<lastmod>2021-10-25T17:09:52+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_UHF-FAK_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_UHF-Gate_r2-2.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_UHF-Tunnel_r1-3.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_UM14_r1-3.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_UM15_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_UMG2_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_hfMux-16_r2-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_hfMux-4_r2-2.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_hfMux-8_r2-2.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_hyperMux-16_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_hyperMux-4_r2-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datasheet_lambda40_r1-1.pdf</loc>
-<lastmod>2021-10-25T17:09:53+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datenblatt_IPS-BeaconS_r1-3.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datenblatt_PCB-Antennen_r2-2.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datenblatt_RFID-Starter-Kits_r1-2.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/datasheet/Datenblatt_TUC_r1-3.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Doc_Antenna-Integration-Guide_r1-2.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Doc_MPS-Beacon-Protocol-Guide_r1-0.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Doc_TUC2-Protocol_r2-0.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_BraceID_r1-0.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_Dwarf14_r1-4.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_Dwarf15-v2_r1-7.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_DwarfG2-Mini_r1-4.pdf</loc>
-<lastmod>2021-07-25T17:25:11+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_DwarfG2_r01-03.pdf</loc>
-<lastmod>2021-07-17T20:28:18+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_Echo-5P_r1-4.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_PulsarMX_v1-2.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_QR14_r1-5.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_QR15-v2_r01-01.pdf</loc>
-<lastmod>2021-07-17T20:28:18+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_QR15_r1-9.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_TUC2-Integration-Guide_r2-3.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_hfMux-X_v2-5.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Docu_hyperMux_v1-5.pdf</loc>
-<lastmod>2020-11-11T17:29:38+01:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/Doku_IPS-Receiver_v1-5.pdf</loc>
-<lastmod>2021-10-27T17:47:39+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/MPS_Master_protocol-guide.pdf</loc>
-<lastmod>2021-10-27T17:47:45+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/metraTec_ISO-Protocol-Guide-v2_r1-4.pdf</loc>
-<lastmod>2021-10-25T17:09:52+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/metraTec_MiFare-Protocol-Guide_r2-3.pdf</loc>
-<lastmod>2021-10-25T17:09:52+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/metraTec_QuasarLR-Protocol-Guide_r1-0.pdf</loc>
-<lastmod>2021-10-25T17:09:54+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/files/document/metraTec_UHF-Protocol-Guide_r2-9.pdf</loc>
-<lastmod>2021-10-25T17:09:52+02:00</lastmod>
-</url>
-<url>
-<loc>/assets/vendor/bootstrap-icons/</loc>
-<lastmod>2021-06-01T09:56:28+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/iot/tcptouart/evaboard/Doku_Eval-Board_TUC_v1-3.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-beacons/beaconr/Datasheet_IPS-BeaconR_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-receiver/ipsreceiver/Datasheet_IPS-Receiver_r1-2.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-receiver/ipsreceiver/Doku_IPS-Receiver_v1-5.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/ips/ips-receiver/ipsreceiver/MPS_Master_protocol-guide.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/analyzerkit/Datasheet_UHF-FAK_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/analyzerkit/Docu_UHF_FieldAnalyser_v1-2.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/uhfgate/Datasheet_UHF-Gate_r2-2.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/fullsystems/uhftunnel/Datasheet_UHF-Tunnel_r1-3.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hfMux-16/Datasheet_hfMux-16_r2-1.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hfMux-4/Datasheet_hfMux-4_r2-2.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hfMux-8/Datasheet_hfMux-8_r2-2.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hyperMux-16/Datasheet_hyperMux-16_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/multiplexer/hyperMux-4/Datasheet_hyperMux-4_r2-1.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echo5p-uhf/Datasheet_Echo-5P-r2-1.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echo6p-uhf/Datasheet_Echo-6P_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echo8p-uhf/Datasheet_Echo-8P_r1-2.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/echoN-uhf/Datasheet_Echo-N_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:55+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-antennas/lambda40-hf/Datasheet_lambda40_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/Datasheet_DwarfG2XR_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/Docu_DwarfG2-XR_v1-4.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/Datasheet_QR14_r1-3.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/Datasheet_QR15_r1-2.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um14/Datasheet_UM14_r1-3.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um14/Docu_UM14_v1-5.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/um15-hf/Datasheet_UM15_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-modules/umg2-uhf/Datasheet_UMG2_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/braceid/Datasheet_BraceID_RFID-Bracelet_r1-0.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-mf/Datasheet_DeskID_MF_r1-2.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/deskid-uhf/Datasheet_DeskID-UHF_r1-3.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/pulsarmx/Datasheet_PulsarMX_r1-3.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/Datasheet_QuasarLR_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/Docu_QuasarLR_v1-4.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarlr/ISO15_QuasarLR.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/Datasheet_QuasarMF_r1-3.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmf/Docu_QuasarMF_v1-5.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmr1/Datasheet_QuasarMR1_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmr1/metraTec_Programming_Guide_QuasarMR1_v1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/Datasheet_QuasarMX_r1-3.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/rfid-readers/quasarmx/Docu_QuasarMX_v1-5.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/Datasheet_DwarfG2-Mini_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/Docu_DwarfG2-Mini_v1-4.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/Datasheet_DwarfG2XR_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/Docu_DwarfG2-XR_v1-4.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/Datasheet_QuasarMR1_r1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/metraTec_Programming_Guide_QuasarMR1_v1-1.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/Datasheet_QuasarMX_r1-3.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmidi/Docu_QuasarMX_v1-5.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/Datasheet_QuasarMX_r1-3.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/de/produkte/rfid/starter-kits/starter-hfmini/Docu_QuasarMX_v1-5.pdf</loc>
-<lastmod>2021-08-15T16:53:56+02:00</lastmod>
-</url>
-<url>
-<loc>/en/products/iot/tcptouart/evaboard/Doku_Eval-Board_TUC_v1-3.pdf</loc>
-<lastmod>2020-11-11T17:29:39+01:00</lastmod>
-</url>
-<url>
-<loc>/google282b5d1c169345b8.html</loc>
-<lastmod>2021-10-27T16:20:01+02:00</lastmod>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+        
+    <url>
+      <loc>/404.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/minipcb-hf/antenna.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/lambda40-hf/antenna.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmr1/antenna.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmini/antenna.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmx/antenna.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/maxipcb-hf/antenna.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmf/antenna.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/antenna.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/midipcb-hf/antenna.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmidi/antenna.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarlr/antenna.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/tcptouart/tuc/configmanager.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/tcptouart/evaboard/configmanager.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/contact.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/minipcb-hf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/braceid/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr14/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um15-hf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr15/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-receiver/ipsreceiver/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-mf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/uhftunnel/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/beaconl/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmini/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/tcptouart/evaboard/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um14/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/uhfgate/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmx/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/tcptouart/tuc/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmidi/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/analyzerkit/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-uhf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/beaconb/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf14/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/echo5p-uhf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/ips-beacons/beaconl/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf15/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/midipcb-hf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/pulsarmx/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/echo8p-uhf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/beaconr/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hfMux-4/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmr1/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/beacons/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hyperMux-16/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/lambda40-hf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hfMux-8/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/umg2-uhf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hyperMux-4/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarlr/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hfMux-16/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/echo6p-uhf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/maxipcb-hf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/echoN-uhf/datasheet.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-uhf/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr14/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-receiver/ipsreceiver/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr15/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/tcptouart/evaboard/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/tcptouart/tuc/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmini/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmidi/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf14/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf15/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hfMux-4/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hyperMux-8/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hyperMux-16/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hfMux-8/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hyperMux-4/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmr1/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hfMux-16/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarlr/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/echo8p-uhf/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/braceid/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/echo5p-uhf/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/analyzerkit/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmx/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmf/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um15-hf/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/pulsarmx/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um14/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/docu.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf14/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/pulsarmx/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr15/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmidi/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um15-hf/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-mf/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-iso/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um14/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/umg2-uhf/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-uhf/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarlr/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/braceid/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr14/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/tcptouart/tuc/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmini/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-uhf/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmx/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf15/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmf/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/firmware.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um15-hf/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/analyzerkit/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-uhf/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmini/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmx/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-mf/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmf/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/pulsarmx/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmidi/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/umg2-uhf/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarlr/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmr1/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um14/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/braceid/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-iso/firmwareupdate.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/impress.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/impressum.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/ueber-uns/privacy/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/ueber-uns/news/2020-01-13/</loc>
+      <lastmod>2020-01-13T00:00:00+01:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/ueber-uns/news/2020-08-05/</loc>
+      <lastmod>2020-08-05T00:00:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/ueber-uns/news/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/ueber-uns/team/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/ueber-uns/jobs/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/ueber-uns/company/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/ueber-uns/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/mehr/open-source/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/mehr/fue-projekte/digistable/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/mehr/fue-projekte/kids-ct/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/mehr/fue-projekte/Fingerzeig/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/mehr/fue-projekte/lapar/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/mehr/fue-projekte/avatar/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/mehr/fue-projekte/fast-athletics/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/mehr/fue-projekte/fast-secure/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/mehr/fue-projekte/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/mehr/vertriebspartner/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/mehr/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/support/faq/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/support/downloads/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/support/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/about/privacy/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/about/news/2020-01-13/</loc>
+      <lastmod>2020-01-13T00:00:00+01:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/about/news/2020-08-05/</loc>
+      <lastmod>2020-08-05T00:00:00+02:00</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/about/news/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/about/team/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/about/jobs/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/about/company/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/about/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/more/open-source/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/more/sales-partner/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/more/research-projects/digistable/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/more/research-projects/kids-ct/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/more/research-projects/Fingerzeig/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/more/research-projects/lapar/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/more/research-projects/avatar/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/more/research-projects/fast-athletics/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/more/research-projects/fast-secure/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/more/research-projects/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/more/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/support/faq/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/support/downloads/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/support/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/pulsarmx/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/iot-engine/ips+plugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/iot-engine/ipsplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/iot-engine/userscriptplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/beacons/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-middleware/userscriptplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-middleware/rfidplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-middleware/basicframework/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-middleware/ouputextension/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-middleware/mapplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-middleware/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/identification/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/oem-design/customantennas/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/oem-design/rfidintegration/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/oem-design/electronicdesign/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/oem-design/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/localization/assettracking/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/localization/workflowmngt/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/localization/personnelsafety/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/localization/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/mehr/fue-projekte/stimulate/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/more/research-projects/stimulate/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/beaconl/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/identifikation/containertracking/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/identifikation/bulkidentifikation/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/identifikation/e-kanban/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/identifikation/caridentification/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/identifikation/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/lokalisierung/assettracking/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/lokalisierung/workflowmngt/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/lokalisierung/personnelsafety/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/lokalisierung/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/oem-design/customantennas/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/oem-design/rfidintegration/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/oem-design/electronicdesign/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/loesungen/oem-design/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/beaconb/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/beaconr/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/ips-beacons/beaconl/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/ips-beacons/beaconb/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/ips-beacons/beaconr/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/ips-beacons/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/iot-engine/userscriptplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/iot-engine/ipsplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/iot-engine/ips+plugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/iot-engine/basicframework/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/iot-engine/ouputextension/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/iot-engine/mapplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/iot-engine/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/ips-receiver/ips+receiver/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/ips-receiver/ipsreceiver/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/ips-receiver/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/ips-starter-kits/ips-starter-kit/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/ips-starter-kits/ips+-starter-kit/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/ips-starter-kits/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/IoT/telematics/tmb3/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/IoT/telematics/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/IoT/tcp-to-uart/evaboard/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/IoT/tcp-to-uart/tuc/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/IoT/tcp-to-uart/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/IoT/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/oem-design/emcsupport/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/oem-design/designservices/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/oem-design/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/full-rfid-systems/hfuhftunnel/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/full-rfid-systems/analyzerkit/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/full-rfid-systems/uhfgate/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/full-rfid-systems/hftunnel/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/full-rfid-systems/kanbanbox/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/full-rfid-systems/uhftunnel/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/full-rfid-systems/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/multiplexer/hfMux-4/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/multiplexer/hyperMux-8/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/multiplexer/hyperMux-16/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/multiplexer/hfMux-8/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/multiplexer/hyperMux-4/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/multiplexer/hfMux-16/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/multiplexer/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-antennas/echo6p-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-antennas/echoN-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-antennas/minipcb-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-antennas/maxipcb-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-antennas/lambda40-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-antennas/midipcb-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-antennas/echo5p-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-antennas/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-modules/qr14-Plugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-modules/dwarf14-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-modules/dwarfG2XR-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-modules/dwarfG2mini-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-modules/dwarf15-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-modules/qr15-Plugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-modules/umg2/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-modules/dwarfG2-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-modules/um15/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-modules/um14/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-modules/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-readers/pulsarmx/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-readers/quasarmf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-readers/deskid-mf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-readers/quasarmx/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-readers/deskid-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-readers/deskid-iso/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-readers/braceid/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-readers/quasarlr/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-readers/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/starter-kits/starter-dwarfg2xr/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/starter-kits/starter-dwarf15/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/starter-kits/starter-dwarf14/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/starter-kits/starter-hfmidi/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/starter-kits/starter-hfmini/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/starter-kits/starter-dwarfg2/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/starter-kits/starter-qr15/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/starter-kits/starter-qr14/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/starter-kits/starter-dwarfg2mini/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/starter-kits/starter-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/starter-kits/starter-hfmaxi/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/starter-kits/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-middleware/userscriptplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-middleware/rfidplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-middleware/basicframework/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-middleware/ouputextension/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-middleware/mapplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/rfid-middleware/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/rfid/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/identification/containertracking/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/identification/bulkidentifikation/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/identification/e-kanban/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/solutions/identification/caridentification/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/umg2-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um14/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um15-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-mf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/uhftunnel/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/kanbanbox/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/hftunnel/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmx/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/uhfgate/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/analyzerkit/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/hfuhftunnel/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/echo5p-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-iso/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/midipcb-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/echo8p-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/lambda40-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/braceid/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/maxipcb-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/minipcb-hf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/echoN-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-antennas/echo6p-uhf/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarlr/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hfMux-16/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hyperMux-4/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hfMux-8/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hyperMux-16/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmr1/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hyperMux-8/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/multiplexer/hfMux-4/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/oem-design/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/oem-design/designservices/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/oem-design/emcsupport/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/iotengine/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf15/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/iotengine/mapplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/iotengine/ouputextension/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/iotengine/basicframework/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf14/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/iotengine/ips+plugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/iotengine/rfidplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/iotengine/ipsplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/iotengine/userscriptplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/telematics/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmidi/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/telematics/tmb3/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/tcptouart/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/tcptouart/tuc/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmini/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/tcptouart/evaboard/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-starter-kits/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-starter-kits/starterkit/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-receiver/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr15/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-receiver/ipsreceiver/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-receiver/ips+receiver/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/iot-engine/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr14/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/iot-engine/mapplugin/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/iot-engine/ouputextension/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/iot-engine/basicframework/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmidi/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-iso/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmr1/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/pulsarmx/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarlr/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmx/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/tcptouart/tuc/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmini/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-uhf/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um15-hf/integration.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/umg2-uhf/javaSDK.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-uhf/javaSDK.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmidi/javaSDK.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um15-hf/javaSDK.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-iso/javaSDK.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmf/javaSDK.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/pulsarmx/javaSDK.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarlr/javaSDK.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmx/javaSDK.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um14/javaSDK.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmini/javaSDK.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-mf/javaSDK.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/kontakt.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf14/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/iot/tcptouart/tuc/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr15/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf15/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr14/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/library.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmf/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmr1/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-mf/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/umg2-uhf/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmx/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmini/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-uhf/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um15-hf/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmidi/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-iso/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um14/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/pulsarmx/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarlr/metraterm.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmx/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/pulsarmx/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf14-hf/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/umg2-uhf/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr14-Plugin/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmf/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-mf/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr14/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-uhf/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-iso/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-uhf/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/beacons/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/beaconb/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarlr/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/beaconr/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/products/ips/ips-beacons/beaconl/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2mini-uhf/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmr1/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/qr15-Plugin/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2XR-uhf/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf15/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarfG2-uhf/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf14/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-beacons/beaconl/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um15-hf/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmidi/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/dwarf15-hf/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmini/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um14/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/ips/ips-receiver/ipsreceiver/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr15/protocol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/support/faq/q1.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/support/faq/q1.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/support/faq/q2.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/support/faq/q2.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/support/faq/q3.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/support/faq/q3.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/en/support/faq/q4.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/support/faq/q4.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-mf/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-iso/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf14/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2mini/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-uhf/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr15/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmidi/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/umg2-uhf/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmx/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmini/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/pulsarmx/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmr1/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmf/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarfg2xr/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-qr14/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarlr/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-dwarf15/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-uhf/readercontrol.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/sitemap.xml</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/fullsystems/analyzerkit/software.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmr1/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/umg2-uhf/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarlr/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um14/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/pulsarmx/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmidi/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmx/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-modules/um15-hf/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-mf/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/quasarmf/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmaxi/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-uhf/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/starter-kits/starter-hfmini/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/de/produkte/rfid/rfid-readers/deskid-iso/usbdriver.html</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/feed.xml</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/sitemap.xml</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
+        
+    <url>
+      <loc>/robots.txt</loc>
+      <lastmod></lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.5</priority>
+    </url>
+    
+  
 </urlset>
+
+
+

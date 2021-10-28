@@ -4,12 +4,19 @@ title: "TCP/IP to UART Converter (TUC)"
 rank: 20
 section: "IoT"
 group: "TCP to UART"
-description: ""
+description: "A compact OEM module to quickly bring your legacy serial/UART devices into the network age."
 featuredImage: tuc.jpg
 bulletPoints:
   - TCP/IP without own development
   - GPIOs via Ethernet
   - Smallest SMD Module
+linked_files:
+  - Ds_tuc
+  - Doc_tuc2protocol
+  - Doc_tuc2integrationguide
+  - Sw_tucconfigmanager
+  - Fw_tuc
+
 ---
 More and more devices now need a connection to a data network to communicate with other devices in their environment. One of the most popular interface today is Ethernet which can be found almost anywhere. But the protocol requires high data rates and CPU speed and is there not available on most simple microcontrollers where easier interfaces, such as UART are more common. The metraTec TCP/IP to UART converter (TUC) solves this problem with a small module.
 

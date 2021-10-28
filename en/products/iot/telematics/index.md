@@ -7,4 +7,4 @@ featuredImage: tmb3.jpg
 ---
 # Telematics
 ***
-tbc
+Tracking objects is not only useful inside a warehouse or production building. Some applications required a continuous tracking - even on the road. For these cases metraTec offers the following GPS and GSM/LTE based solutions for vehicle tracking, container tracking and other outdoor scenarios.
