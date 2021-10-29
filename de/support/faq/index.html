@@ -3,7 +3,7 @@ layout: page
 title: FAQ
 ---
 
-<h1>Frequently Asked Questions</h1>
+<h1>Häufig gestelle Fragen (FAQ)</h1>
 <div class="border-top mb-3"></div>
 
 <p>
@@ -13,9 +13,9 @@ title: FAQ
 </p>
 
 <ul>
-    {% for item in site.data.faq_en %}
+    {% for item in site.data.faq_de %}
     <li>
-        {{item.question}}
+        <b>{{item.question}}</b>
         <br />
         {{item.answer}}
     </li>
